@@ -86,7 +86,7 @@ author:
   location         :
   employer         : 
   pubmed           : 
-  googlescholar    :
+  googlescholar    : "https://scholar.google.com.sg/citations?hl=en&user=1-Pb3LkAAAAJ"
   email            : "jonathan.koh@stat.unibe.ch"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :

@@ -45,9 +45,9 @@ Duties included: answering students’ questions in class, planning class sessio
 
 Education
 -------
-- EPFL, PhD Statistics, Sep 2017–Jan 2022
-- ETH Zürich & Universität Zürich, MSc Quantitative Finance (with one-year industry internship), Sep 2014–May 2017
-- London School of Economics, BSc Mathematics & Economics, Sep 2011–Jul 2014
+- EPFL, PhD Statistics, 2022
+- ETH Zürich & Universität Zürich, MSc Quantitative Finance (summa cum laude), 2017
+- London School of Economics, BSc Mathematics & Economics (first class honours), 2014
 
 
 

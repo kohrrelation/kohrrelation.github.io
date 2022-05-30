@@ -40,7 +40,7 @@ Teaching assistantships
 - Bayesian Computation: MATH-432 (MSc); Spring 2019, 2020
 - Probability and Statistics: MATH-232 (BSc); Spring 2018
 
-Duties included: answering students’ questions in class, planning class sessions, preparing exercises and solution sheets, holding office hours and review sessions, supervising and grading projects, and aiding in the writing and marking of quizzes, midterms and final exams. 
+Duties included: answering students’ questions in class, planning class sessions, preparing exercises and solution sheets, holding office hours and review sessions, supervising and grading projects, holding substitute lectures, and aiding in the writing and marking of quizzes, midterms and final exams. 
 
 
 Education

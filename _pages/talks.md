@@ -1,5 +1,5 @@
 ---
-permalink: /talks/
+permalink: /activity/
 title: "Academic activity"
 author_profile: true
 ---

@@ -1,6 +1,6 @@
 ---
 permalink: /outside/
-title: "Outside Academia"
+title: "Outside academia"
 author_profile: true
 ---
 

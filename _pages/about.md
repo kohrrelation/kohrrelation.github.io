@@ -9,15 +9,9 @@ redirect_from:
 ---
 
 
-Hi, it is nice to meet you :)
+My name is Jonathan Koh and I am currently a post-doctoral researcher at the Oeschger Centre for Climate Change Research, University of Bern, working in the Institute of Mathematical Statistics and Actuarial Science ([IMSV](https://www.imsv.unibe.ch/about_us/staff/dr_koh_jonathan_boon_han/index_eng.html)). My research focus lies in the intersection of extreme-value theory, spatial statistics, statistical learning and environmental statistics. My narrower research focus is on developing statistical tools to model environmental extremes.
 
-My name is Daniel Steinfeld and I started in April 2021 a PostDoc position at the Oeschger Centre for Climate Change Research, University of Bern. My project focuses on present and future forest fires in Switzerland and is in collaboration with the Canton of Bern.  
-A little bit about me: I did my Masters in Climate Sciences at the [University of Bern](https://www.oeschger.unibe.ch/studium/studienprogramme/index_ger.html) and my PhD in Atmospheric Dynamics at [ETH Zurich](https://iac.ethz.ch/group/atmospheric-dynamics.html). The focus of my research was on atmospheric and climate dynamics, aimed at analysing physical processes governing the large-scale circulation and high-impact weather phenomena such as atmospheric blocking and windstorms. Previously, I worked as a Natural Catastrophe Risk Modeler for a Swiss insurance company.
-     
-Learn more about my project at the University of Bern here: [https://www.geography.unibe.ch/about_us/staff/dr_steinfeld_daniel](https://www.geography.unibe.ch/about_us/staff/dr_steinfeld_daniel/index_eng.html)  
-
-You can find some of my current projects here: [https://github.com/steidani](https://github.com/steidani)
-
+I obtained my PhD from [EPFL](https://www.epfl.ch/labs/stat/), under the supervision of [Prof. Anthony Davison](https://people.epfl.ch/anthony.davison?lang=en).
 
 ![](http://steidani.github.io/images/animation_blocking.gif)
 

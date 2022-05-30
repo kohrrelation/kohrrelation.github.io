@@ -43,6 +43,11 @@ Teaching assistantships
 Duties included: answering students’ questions in class, planning class sessions, preparing exercises and solution sheets, holding office hours and review sessions, supervising and grading projects, and aiding in the writing and marking of quizzes, midterms and final exams. 
 
 
+Education
+-------
+- EPFL, PhD Statistics, Sep 2017–Jan 2022
+- ETH Zürich & Universität Zürich, MSc Quantitative Finance (with one-year industry internship), Sep 2014–May 2017
+- London School of Economics, BSc Mathematics & Economics, Sep 2011–Jul 2014
 
 
 

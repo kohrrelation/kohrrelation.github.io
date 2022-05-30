@@ -15,5 +15,4 @@ I am currently a post-doctoral researcher at the Oeschger Centre for Climate Cha
 
 My research focus lies in the intersection of extreme-value theory, spatial statistics, statistical learning and environmental statistics. More specifically, I develop new statistical tools to model environmental extremes. 
 
-![](https://www.youtube.com/watch?v=3fuS3CNJwaM&list=PLtmP6wk6UJ8OaAlGx0meJ1d5tW4iHP62K&index=15))
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3fuS3CNJwaM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Daniel Steinfeld"
+title                    : "Jonathan Koh"
 title_separator          : "-"
-name                     : "Daniel Steinfeld"
-description              : "PhD in Atmospheric and Climate Science from ETH Zurich"
-url                      : "https://steidani.github.io"
+name                     : "Jonathan Koh"
+description              : "Post-doc in Statistics"
+url                      : "https://kohrrelation.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "steidani/steidani.github.io"
+repository               : "kohrrelation/kohrrelation.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : "steidani1"
+  username               : "kohrrelation"
 facebook:
   username               :
   app_id                 :
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Daniel Steinfeld"
+  name             : "Jonathan Koh"
   avatar           : "pic_me.jpg"
-  bio              : "PhD in Atmospheric and Climate Science at ETH Zurich"
+  bio              : "PhD in Statistics. Always up for puns."
   location         :
   employer         : 
   pubmed           : 
   googlescholar    :
-  email            : "dani_steinfeld@hotmail.com"
+  email            : "jonathan.koh@stat.unibe.ch"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,20 +96,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "steidani"
+  github           : "kohrrelation"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      :
   lastfm           :
-  linkedin         : "steidani"
+  linkedin         : "https://www.linkedin.com/in/jonathan-koh-718948b4"
   orcid            :
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "steidani1"
+  twitter          : "kohrrelation"
   vine             :
   weibo            :
   xing             :

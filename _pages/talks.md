@@ -1,38 +1,46 @@
 ---
-permalink: /talks/
-title: "Workshops & Talks"
+permalink: /activity/
+title: "Academic activity"
 author_profile: true
 ---
 
 Talks
 ------
-**The role of latent heating in atmospheric blocking**: [pdf](http://steidani.github.io/files/defense_daniel_steinfeld_2019.pdf)  
-&nbsp;&nbsp;&nbsp;&nbsp;PhD Defense, Insitute for Atmospheric and Climate Science, ETH Zurich  
-&nbsp;&nbsp;&nbsp;&nbsp;_May 2019, ETH Zurich, Switzerland_  
+- Invited seminar, RCS Seminar, Geneva, Switzerland, Feb 2022
+- Invited talk, 14th CMStat (virtual), Dec 2021
+- Invited talk, German Statistical Week 2021 (virtual), Sep 2021
+- Invited talk, 12th Extreme Value Analysis (virtual), Jul 2021
+- Contributed talk, 12th Extreme Value Analysis (virtual), Jun 2021
+- Contributed talk, 13th Workshop on Spatial Statistics and Image Analysis (virtual), May 2021
+- Invited talk, 13th CMStat (virtual), Dec 2020
+- Invited seminar, IMSV Institute Seminar Bern (virtual), Dec 2020
+- Invited talk, 12th CMStat, London, United Kingdom, Dec 2019
+- Contributed talk (ASA funded), 62nd ISI World Statistics Congress, Kuala Lumpur, Malaysia, Aug 2019
+- Invited talk, 11th Extreme Value Analysis, Zagreb, Croatia, Jul 2019
+- Contributed talk, 14th IMSC, Toulouse, France, Jun 2019
+- Contributed poster, Climate Extremes 2019, Riederalp, Switzerland, Mar 2019
+- Contributed poster, 11th CMStat, Pisa, Italy, Dec 2018
+- Contributed talk, BCUR 2014, Nottingham, United Kingdom, Apr 2014
 
-**Microphysical processes in Diabatic Rossby Waves**: [pdf](http://steidani.github.io/files/master_defense_daniel_steinfeld_2015.pdf)  
-&nbsp;&nbsp;&nbsp;&nbsp;Msc thesis presentation, Oeschger Centre for Climate Change Research, University of Bern  
-&nbsp;&nbsp;&nbsp;&nbsp;_2015, University of Bern, Switzerland_  
 
-Workshops 
+Competitions 
 -------
-**Wasser in der Atmosphäre (engl. Water in the Atmosphere)**: [Part 1](http://steidani.github.io/files/Wasser_in_der_Atmosphaere_Teil1.pdf), [Part 2](http://steidani.github.io/files/Wasser_in_der_Atmosphaere_Teil2.pdf)  
-&nbsp;&nbsp;&nbsp;&nbsp;Bachelor Course "Klimatologie" at ZHAW Zurich University of Applied Sciences  
-&nbsp;&nbsp;&nbsp;&nbsp;_2019, ZHAW, Switzerland_  
+- Public prize (CHF 200), EPFL MT180 (My Thesis in 180 Seconds) preliminary round, Feb 2022
 
-**Weather system perspective in GCMs**: [pdf](http://steidani.github.io/files/cesm_meeting_dec_2018.pdf)  
-&nbsp;&nbsp;&nbsp;&nbsp;C2SM GCM User Workshop  
-&nbsp;&nbsp;&nbsp;&nbsp;_June 2018, ETH Zurich, Switzerland_  
+I've recently started to compete alone at international data challenges, under the alias **kohrrelation**. Let me know if you'd like to collaborate in a team with me! 
 
-**Was ist Wetter? (engl. What is Weather?)**: [pdf](http://steidani.github.io/files/girls_day_18_dani.pdf)  
-&nbsp;&nbsp;&nbsp;&nbsp;IAC Girls’ Day 2018  
-&nbsp;&nbsp;&nbsp;&nbsp;_June 2018, ETH Zurich, Switzerland_  
+- 2nd place (£250), 12th Extreme Value Analysis Data Challenge, Jul 2021
+- 1st place (€1,250), 8th Europe Congress of Mathematics Data Challenge, Jun 2021
 
-Posters 
+
+Teaching assistantships
 -------
-**Sensitivity of blocking to changes in upstream latent heating**: [pdf](http://steidani.github.io/files/wcb_2020_ifs_sensitivity.pdf)  
-&nbsp;&nbsp;&nbsp;&nbsp;Cyclone Workshop 2019 and WCB Workshop 2020  
-&nbsp;&nbsp;&nbsp;&nbsp;_October 2019, Germany and March 2020, England_
+- Wildfire Modelling: four MSc/BSc semester projects; Spring 2021
+- Statistical Machine Learning: MATH-412 (MSc); Fall 2017, 2018, 2019, 2020
+- Bayesian Computation: MATH-432 (MSc); Spring 2019, 2020
+- Probability and Statistics: MATH-232 (BSc); Spring 2018
+
+Duties included: answering students’ questions in class, planning class sessions, preparing exercises and solution sheets, holding office hours and review sessions, supervising and grading projects, and aiding in the writing and marking of quizzes, midterms and final exams. 
 
 
 

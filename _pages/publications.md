@@ -12,7 +12,7 @@ Articles (in peer-reviewed journals)
 
 - Koh, J. (2022). Gradient boosting with extreme-value theory for wildfire prediction. [ArXiv: 2110.09497](https://arxiv.org/abs/2110.09497). In revision.
 
-- Koh, J., Opitz, T, Pimont, F., Dupuy, J., -L. (2022). Spatiotemporal wildfire modelling through point processes with moderate and extreme marks. [ArXiv: 2105.08004](https://arxiv.org/abs/2105.08004). Accepted in The Annals of Applied Statistics. Video for this paper [here](https://media.ed.ac.uk/media/Climate+ExtremesA+Jonathan+Koh/1_sjq69ibw).
+- Koh, J., Opitz, T., Pimont, F., Dupuy, J.-L. (2022). Spatiotemporal wildfire modelling through point processes with moderate and extreme marks. [ArXiv: 2105.08004](https://arxiv.org/abs/2105.08004). Accepted in The Annals of Applied Statistics. Video for this paper [here](https://media.ed.ac.uk/media/Climate+ExtremesA+Jonathan+Koh/1_sjq69ibw).
 
 - Koch, E., Koh, J., Davison, A. C., Lepore, C., Tippett, M. K. (2021). Trends in the extremes of environments associated with severe US thunderstorms. [Journal of Climate, 34(4):1259–1272](https://journals.ametsoc.org/view/journals/clim/34/4/JCLI-D-19-0826.1.xml).
 
@@ -21,4 +21,4 @@ Articles (in peer-reviewed journals)
 PhD Thesis
 ---------------
 
-- Koh J., 2022: [Spatiotemporal modelling of extreme wildfires and severe thunderstorm environments](https://infoscience.epfl.ch/record/291228?ln=en), EPFL
+- Koh J., 2022: [Spatiotemporal modelling of extreme wildfires and severe thunderstorm environments](https://infoscience.epfl.ch/record/291228?ln=en).

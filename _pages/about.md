@@ -15,7 +15,7 @@ I am currently a post-doctoral researcher at the Oeschger Centre for Climate Cha
 
 My research focus lies in the intersection of extreme-value theory, spatial statistics, statistical learning and environmental statistics. More specifically, I develop new statistical tools to model environmental extremes. 
 
-For a very easy-to-understand, light-hearted and condensed summary of my thesis, see [here](https://www.youtube.com/watch?v=3fuS3CNJwaM&t=4s). 
+For a very easy-to-understand, light-hearted and condensed summary of my thesis, see [here](https://www.youtube.com/watch?v=3fuS3CNJwaM&t). 
 
 ![](http://kohrrelation.github.io/images/Nasi_lemak.jpeg)
 

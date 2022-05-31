@@ -1,13 +1,13 @@
 # main links links
 main:
-  - title: "Academic Activity"
+  - title: "Academic activity"
     url: /activity/   
 
   - title: "Publications"
     url: /publications/   
     
-  - title: "Blog Posts"
+  - title: "Blog posts"
     url: /year-archive/
 
-  - title: "Outside Academia"
+  - title: "Outside academia"
     url: /outside/

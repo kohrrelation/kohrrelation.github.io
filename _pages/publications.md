@@ -5,7 +5,7 @@ author_profile: true
 ---
 
 
-Articles (in peer-reviewed journals)
+Articles (in Statistics)
 ---------------
 
 - **Koh, J.**, Koch, E., Davison, A. C. (2022). Space-time extremes of severe US thunderstorm environments. [ArXiv: 2201.05102](https://arxiv.org/abs/2201.05102). In revision.
@@ -14,9 +14,14 @@ Articles (in peer-reviewed journals)
 
 - **Koh, J.**, Pimont, F., Dupuy, J.-L., Opitz, T. (2022). Spatiotemporal wildfire modelling through point processes with moderate and extreme marks. [ArXiv: 2105.08004](https://arxiv.org/abs/2105.08004). Accepted in The Annals of Applied Statistics. Video [here](https://media.ed.ac.uk/media/Climate+ExtremesA+Jonathan+Koh/1_sjq69ibw).
 
-- Koch, E., **Koh, J.**, Davison, A. C., Lepore, C., Tippett, M. K. (2021). Trends in the extremes of environments associated with severe US thunderstorms. [Journal of Climate, 34(4):1259–1272](https://journals.ametsoc.org/view/journals/clim/34/4/JCLI-D-19-0826.1.xml).
-
 - Davison, A. C., Koch, E., **Koh, J.** (2019). Comment: Models are approximations! [Statistical Science, 34(4):580–480](https://projecteuclid.org/journals/statistical-science/volume-34/issue-4/Comment-Models-Are-Approximations/10.1214/19-STS746.short).
+
+Articles (in Climate)
+---------------
+
+- Barton, Y., Rivoire, P., **Koh, J.**, Ali, S. M., Kopp, J., Martius, O. (2022). On the Temporal Clustering of European Extreme Precipitation Events and its Relationship to Persistent and Transient Large-Scale Atmospheric Drivers. [SSRN: 4033240](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4033240)
+
+- Koch, E., **Koh, J.**, Davison, A. C., Lepore, C., Tippett, M. K. (2021). Trends in the extremes of environments associated with severe US thunderstorms. [Journal of Climate, 34(4):1259–1272](https://journals.ametsoc.org/view/journals/clim/34/4/JCLI-D-19-0826.1.xml).
 
 PhD Thesis
 ---------------

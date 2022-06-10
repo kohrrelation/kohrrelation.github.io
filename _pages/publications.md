@@ -19,7 +19,7 @@ Articles (in Statistics)
 Articles (in Climate)
 ---------------
 
-- Barton, Y., Rivoire, P., **Koh, J.**, Ali, S. M., Kopp, J., Martius, O. (2022). On the temporal clustering of European extreme precipitation events and its relationship to persistent and transient large-scale atmospheric drivers. [SSRN: 4033240](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4033240)
+- Barton, Y., Rivoire, P., **Koh, J.**, Ali, S. M., Kopp, J., Martius, O. (2022). On the temporal clustering of European extreme precipitation events and its relationship to persistent and transient large-scale atmospheric drivers. [SSRN: 4033240](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4033240). In revision.
 
 - Koch, E., **Koh, J.**, Davison, A. C., Lepore, C., Tippett, M. K. (2021). Trends in the extremes of environments associated with severe US thunderstorms. [Journal of Climate, 34(4):1259–1272](https://journals.ametsoc.org/view/journals/clim/34/4/JCLI-D-19-0826.1.xml).
 

@@ -23,17 +23,17 @@ Talks
 - Contributed talk, BCUR 2014, Nottingham, United Kingdom, Apr 2014
 
 
-Competitions 
+Prizes 
 -------
-- Public prize (CHF 200), EPFL MT180 (My Thesis in 180 Seconds) preliminary round, Feb 2022
+- Public prize, EPFL MT180 (My Thesis in 180 Seconds) preliminary round, Feb 2022
 
 I've recently started to compete alone at international data challenges, under the alias **kohrrelation**. Let me know if you'd like to collaborate in a team with me! 
 
-- 2nd place (£250), 12th Extreme Value Analysis Data Challenge, Jul 2021
-- 1st place (€1,250), 8th Europe Congress of Mathematics Data Challenge, Jun 2021
+- 2nd place, 12th Extreme Value Analysis Data Challenge, Jul 2021
+- 1st place, 8th Europe Congress of Mathematics Data Challenge, Jun 2021
 
 
-Teaching assistantships
+Teaching activities at EPFL
 -------
 - Wildfire Modelling: four MSc/BSc semester projects; Spring 2021
 - Statistical Machine Learning: MATH-412 (MSc); Fall 2017, 2018, 2019, 2020

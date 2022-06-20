@@ -4,14 +4,16 @@ title: "Academic activity"
 author_profile: true
 ---
 
-News
+News (current year)
 ------
 
+- Sep 2022: I will give a new lecture [477874-HS2022-0: Statistical modelling of extremes](https://ilias.unibe.ch/goto_ilias3_unibe_crs_2404790.html) at the University of Bern in the Fall 2022 
 - Aug 2022: Upcoming talk at the Joint Statistical Meeting in Washington, D.C.
-- Jul 2022: Research visit [(STSM)](http://damocles.compoundevents.org/stsm.php) in L'unité de Biostatistique et processus SPatiaux [(BioSP)](https://biosp.mathnum.inrae.fr/), INRAe, Avignon
+- Jul 2022: Upcoming research visit at the [Department of Statistics, Colorado State University](https://statistics.colostate.edu/). 
+- Jul 2022: Upcoming research visit [(STSM)](http://damocles.compoundevents.org/stsm.php) at L'unité de Biostatistique et processus SPatiaux [(BioSP)](https://biosp.mathnum.inrae.fr/), INRAe, Avignon
 - May 2022: Our paper on "Spatiotemporal wildfire modeling through point processes with moderate and extreme marks" (with F. Pimont, J.-L. Dupuy and T. Opitz) has been accepted in the [Annals of Applied Statistics](https://imstat.org/journals-and-publications/annals-of-applied-statistics/)
 - Feb 2022: I have started a new postdoc position at the Oeschger Centre for Climate Change Research, University of Bern, working in the Institute of Mathematical Statistics and Actuarial Science ([IMSV](https://www.imsv.unibe.ch/about_us/staff/dr_koh_jonathan_boon_han/index_eng.html))
-- Jan 2022: New paper on "Space-time extremes of severe US thunderstorm environments" (with E. Koch and A. C. Davison) on [ArXiv](https://arxiv.org/abs/2201.05102). 
+- Jan 2022: New paper on "Space-time extremes of severe US thunderstorm environments" (with E. Koch and A. C. Davison) on [ArXiv](https://arxiv.org/abs/2201.05102) 
 
 
 Talks

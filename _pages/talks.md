@@ -7,7 +7,7 @@ author_profile: true
 News (current year)
 ------
 
-- Sep 2022: I will give a new lecture [477874-HS2022-0: Statistical modelling of extremes](https://ilias.unibe.ch/goto_ilias3_unibe_crs_2404790.html) at the University of Bern in the Fall 2022 
+- Sep 2022: I will give a new lecture [477874-HS2022-0: Statistical modelling of extremes](https://ilias.unibe.ch/goto_ilias3_unibe_crs_2404790.html) at the University of Bern in Autumn 2022 
 - Aug 2022: Upcoming talk at the Joint Statistical Meeting in Washington, D.C.
 - Jul 2022: Upcoming research visit at the [Department of Statistics, Colorado State University](https://statistics.colostate.edu/). 
 - Jul 2022: Upcoming research visit [(STSM)](http://damocles.compoundevents.org/stsm.php) at L'unité de Biostatistique et processus SPatiaux [(BioSP)](https://biosp.mathnum.inrae.fr/), INRAe, Avignon

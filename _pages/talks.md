@@ -6,7 +6,7 @@ author_profile: true
 
 News (current year)
 ------
-- Oct 2022: Seminar talk at INRAe, Avignon, France.
+- Oct 2022: Seminar talk at [INRAe](https://biosp.mathnum.inrae.fr/cafe-sciences), Avignon, France.
 - Sep 2022: I will lecture a new course [477874-HS2022-0: Statistical modelling of extremes](https://ilias.unibe.ch/goto_ilias3_unibe_crs_2404790.html) at the University of Bern in Autumn 2022 
 - Sep 2022: Talk at the DAMOCLES Compound Events Final Conference in Lisbon, Portugal.
 - Aug 2022: Talk at the Joint Statistical Meeting in Washington, D.C., United States. Grant amount: CHF1'500

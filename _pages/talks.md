@@ -20,6 +20,7 @@ News (current year)
 
 Talks
 ------
+- Invited seminar, INRAe, Avignon, France, Oct 2022
 - Contributed talk, DAMOCLES Compound Events Final Conference, Lisbon, Portugal, Sep 2022
 - Invited talk, Joint Statistical Meeting, Washington D.C., United States, Aug 2022
 - Invited seminar, RCS Seminar, Geneva, Switzerland, Feb 2022

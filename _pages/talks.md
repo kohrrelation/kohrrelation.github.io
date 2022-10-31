@@ -6,6 +6,7 @@ author_profile: true
 
 News (current year)
 ------
+- Oct 2022: My paper on "Gradient boosting with extreme-value theory for wildfire prediction" has been accepted in [Extremes](https://www.springer.com/journal/10687)
 - Oct 2022: Seminar talk at [INRAe](https://biosp.mathnum.inrae.fr/cafe-sciences), Avignon, France.
 - Sep 2022: I will lecture a new course [477874-HS2022-0: Statistical modelling of extremes](https://ilias.unibe.ch/goto_ilias3_unibe_crs_2404790.html) at the University of Bern in Autumn 2022 
 - Sep 2022: Talk at the DAMOCLES Compound Events Final Conference in Lisbon, Portugal.

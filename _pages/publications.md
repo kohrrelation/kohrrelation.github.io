@@ -10,7 +10,7 @@ Articles (in Statistics)
 
 - **Koh, J.**, Koch, E., Davison, A. C. (2022). Space-time extremes of severe US thunderstorm environments. [ArXiv: 2201.05102](https://arxiv.org/abs/2201.05102). In revision.
 
-- **Koh, J.** (2022). Gradient boosting with extreme-value theory for wildfire prediction. [ArXiv: 2110.09497](https://arxiv.org/abs/2110.09497). In revision.
+- **Koh, J.** (2022). Gradient boosting with extreme-value theory for wildfire prediction. [ArXiv: 2110.09497](https://arxiv.org/abs/2110.09497). Accepted in Extremes. 
 
 - **Koh, J.**, Pimont, F., Dupuy, J.-L., Opitz, T. (2022). Spatiotemporal wildfire modelling through point processes with moderate and extreme marks. [ArXiv: 2105.08004](https://arxiv.org/abs/2105.08004). Accepted in The Annals of Applied Statistics. Video [here](https://media.ed.ac.uk/media/Climate+ExtremesA+Jonathan+Koh/1_sjq69ibw).
 

@@ -6,13 +6,9 @@ author_profile: true
 
 News
 ------
-2023
-------
 - Apr 2023: Seminar talk at the Free University of Bozen-Bolzano in Bolzano, Italy
 - Apr 2023: Talk in VALPRED 4 in Aussois, France
 - Mar 2023: Lecture and practicals on "Bridging univariate to multivariate extremes", for MSc students part of the [ATHENS network](http://athensnetwork.eu/athens-programme.html) at École des Mines de Paris, France 
-2022
-------
 - Oct 2022: My paper on "Gradient boosting with extreme-value theory for wildfire prediction" has been accepted in [Extremes](https://www.springer.com/journal/10687)
 - Oct 2022: Our paper on "On the temporal clustering of European extreme precipitation events and its relationship to persistent and transient large-scale atmospheric drivers" (with Y. Barton, P. Rivoire, M. S. Ali, J. Kopp and O. Martius) has been accepted in [Weather and Climate Extremes](https://www.sciencedirect.com/journal/weather-and-climate-extremes)
 - Oct 2022: Seminar talk at [INRAe](https://biosp.mathnum.inrae.fr/cafe-sciences), Avignon, France

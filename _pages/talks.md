@@ -6,7 +6,8 @@ author_profile: true
 
 News
 ------
-- Apr 2023: Seminar talk at the Free University of Bozen-Bolzano in Bolzano, Italy
+- May 2023: IMAG Workshop at the Institute of Mathematics at the University of Granada, Spain
+- Apr 2023: Seminar talk at the Free University of Bozen-Bolzano, Italy
 - Apr 2023: Talk in VALPRED 4 in Aussois, France
 - Mar 2023: Lecture and practicals on "Bridging univariate to multivariate extremes", for MSc students part of the [ATHENS network](http://athensnetwork.eu/athens-programme.html) at École des Mines de Paris, France 
 - Oct 2022: My paper on "Gradient boosting with extreme-value theory for wildfire prediction" has been accepted in [Extremes](https://www.springer.com/journal/10687)

@@ -18,7 +18,7 @@ News
 - Oct 2022: My paper on "Gradient boosting with extreme-value theory for wildfire prediction" has been accepted in [Extremes](https://www.springer.com/journal/10687)
 - Oct 2022: Our paper on "On the temporal clustering of European extreme precipitation events and its relationship to persistent and transient large-scale atmospheric drivers" (with Y. Barton, P. Rivoire, M. S. Ali, J. Kopp and O. Martius) has been accepted in [Weather and Climate Extremes](https://www.sciencedirect.com/journal/weather-and-climate-extremes)
 - Oct 2022: Seminar talk at [INRAe](https://biosp.mathnum.inrae.fr/cafe-sciences), Avignon, France
-- Sep 2022: I will lecture a new course [477874-HS2022-0: Statistical modelling of extremes](https://ilias.unibe.ch/goto_ilias3_unibe_crs_2404790.html) at the University of Bern in Autumn 2022 
+- Sep 2022: I will lecture a new course [477874-HS2022-0: Statistical modelling of extremes](https://ilias.unibe.ch/goto_ilias3_unibe_crs_2404790.html) at the University of Bern in Fall 2022 
 - Sep 2022: Talk at the DAMOCLES Compound Events Final Conference in Lisbon, Portugal
 - Aug 2022: Talk at the Joint Statistical Meeting in Washington, D.C., United States. Grant amount: CHF1'500
 - Jul 2022: Research visit at the [Department of Statistics, Colorado State University](https://statistics.colostate.edu/)
@@ -61,8 +61,19 @@ I've recently started to compete alone at international data challenges, under t
 - 1st place, 8th Europe Congress of Mathematics Data Challenge, Jun 2021
 
 
-Teaching activities at EPFL
+Teaching activities
 -------
+
+### Lectures
+- "Statistical modelling of extremes" (MSc) at the University of Bern: 21 hours lectures in Fall 2022 
+- "Crossing the bridge from univariate to multivariate extremes" (MSc) at École des Mines de Paris: 3.5 hours lecture and 8 hours practicals in March 2023
+
+### Teaching assistantships
+
+#### University of Bern
+- Statistical forecast verification (MSc); Fall 2022
+
+#### EPFL 
 - Wildfire Modelling: four MSc/BSc semester projects; Spring 2021
 - Statistical Machine Learning: MATH-412 (MSc); Fall 2017, 2018, 2019, 2020
 - Bayesian Computation: MATH-432 (MSc); Spring 2019, 2020

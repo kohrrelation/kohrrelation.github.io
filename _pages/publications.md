@@ -5,12 +5,17 @@ author_profile: true
 ---
 
 
-Articles 
+Articles (in revision)
 ---------------
 
-- **Koh, J.**, Koch, E., Davison, A. C. (2022+). Space-time extremes of severe US thunderstorm environments. [ArXiv: 2201.05102](https://arxiv.org/abs/2201.05102). In revision.
+- Poschlod, B., **Koh, J.** (2023) Convection-permitting climate models can support observations to generate rainfall return levels.
 
-- **Koh, J.** (2022+). Gradient boosting with extreme-value theory for wildfire prediction. [Extremes](https://link.springer.com/article/10.1007/s10687-022-00454-6). 
+- **Koh, J.**, Koch, E., Davison, A. C. (2022+). Space-time extremes of severe US thunderstorm environments. [ArXiv: 2201.05102](https://arxiv.org/abs/2201.05102). 
+
+Articles (published)
+---------------
+
+- **Koh, J.** (2023). Gradient boosting with extreme-value theory for wildfire prediction. [Extremes](https://link.springer.com/article/10.1007/s10687-022-00454-6). 
 
 - **Koh, J.**, Pimont, F., Dupuy, J.-L., Opitz, T. (2023). Spatiotemporal wildfire modelling through point processes with moderate and extreme marks. [The Annals of Applied Statistics, 17(1):560-582](https://projecteuclid.org/journals/annals-of-applied-statistics/volume-17/issue-1/Spatiotemporal-wildfire-modeling-through-point-processes-with-moderate-and-extreme/10.1214/22-AOAS1642.full). Video [here](https://media.ed.ac.uk/media/Climate+ExtremesA+Jonathan+Koh/1_sjq69ibw).
 

@@ -8,9 +8,9 @@ author_profile: true
 Articles (in revision)
 ---------------
 
-- Poschlod, B., **Koh, J.** (2023). Convection-permitting climate models can support observations to generate rainfall return levels.
+- Poschlod, B., **Koh, J.** (2023+). Convection-permitting climate models can support observations to generate rainfall return levels.
 
-- Barton, Y., Aregger, M., **Koh, J.**, Martius, O. (2023). Serial clustering of convective storms and link to sub-hourly rainfall extremes in Switzerland - a large-scale process perspective. 
+- Barton, Y., Aregger, M., **Koh, J.**, Martius, O. (2023+). Serial clustering of convective storms and link to sub-hourly rainfall extremes in Switzerland - a large-scale process perspective. 
 
 - **Koh, J.**, Koch, E., Davison, A. C. (2022+). Space-time extremes of severe US thunderstorm environments. [ArXiv: 2201.05102](https://arxiv.org/abs/2201.05102). 
 

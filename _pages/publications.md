@@ -17,7 +17,7 @@ Articles (in revision)
 Articles (published)
 ---------------
 
-- **Koh, J.** (2023). Gradient boosting with extreme-value theory for wildfire prediction. [Extremes](https://link.springer.com/article/10.1007/s10687-022-00454-6). 
+- **Koh, J.** (2023). Gradient boosting with extreme-value theory for wildfire prediction. [Extremes, 26(2):273–299](https://link.springer.com/article/10.1007/s10687-022-00454-6). 
 
 - **Koh, J.**, Pimont, F., Dupuy, J.-L., Opitz, T. (2023). Spatiotemporal wildfire modelling through point processes with moderate and extreme marks. [The Annals of Applied Statistics, 17(1):560-582](https://projecteuclid.org/journals/annals-of-applied-statistics/volume-17/issue-1/Spatiotemporal-wildfire-modeling-through-point-processes-with-moderate-and-extreme/10.1214/22-AOAS1642.full). Video [here](https://media.ed.ac.uk/media/Climate+ExtremesA+Jonathan+Koh/1_sjq69ibw).
 

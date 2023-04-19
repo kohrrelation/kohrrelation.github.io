@@ -11,7 +11,8 @@ News
 - Jun 2023: (Upcoming) Talk at EVA'23 in Milan, Italy
 - May 2023: (Upcoming) IMAG Workshop at the Institute of Mathematics in the University of Granada, Spain
 - Apr 2023: (Upcoming) Seminar talk at the Free University of Bozen-Bolzano, Italy
-- Apr 2023: (Upcoming) Talk at VALPRED 4 in Aussois, France
+- Apr 2023: Talk at the YoungStatS [webinar](https://youngstats.github.io/post/2023/04/04/recent-advances-in-extreme-value-theory/)
+- Apr 2023: Talk at VALPRED 4 in Aussois, France
 - Mar 2023: Lecture and practicals on "Crossing the bridge from univariate to multivariate extremes", for MSc students part of the [ATHENS network](http://athensnetwork.eu/athens-programme.html) at École des Mines de Paris, France 
 
 ### 2022

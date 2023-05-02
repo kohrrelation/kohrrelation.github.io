@@ -14,6 +14,14 @@ Articles (in revision)
 
 - **Koh, J.**, Koch, E., Davison, A. C. (2022+). Space-time extremes of severe US thunderstorm environments. [ArXiv: 2201.05102](https://arxiv.org/abs/2201.05102). 
 
+
+Current projects
+---------------
+
+- **Koh, J.**, Steinfeld, D. (2023+). Predicting the occurrence, intensity and dependence of heat extremes
+- **Koh, J.**, Opitz, T. (2023+). Modelling the first arrival dates of migratory birds using data fusion and extreme-value theory
+- Gilgen, D., **Koh, J.**, Ziegel, J. (2023+). Gradient boosting with maxima
+
 Articles (published)
 ---------------
 

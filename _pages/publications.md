@@ -4,7 +4,7 @@ title: "Publications"
 author_profile: true
 ---
 
-Current projects
+Current projects (submission by summer 2023!)
 ---------------
 
 - **Koh, J.**, Steinfeld, D. (2023+). Predicting the occurrence, intensity and dependence of heat extremes

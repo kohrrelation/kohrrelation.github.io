@@ -9,9 +9,9 @@ News
 
 ### 2023
 - Jun 2023: (Upcoming) Talk at EVA'23 in Milan, Italy
-- May 2023: (Upcoming) IMAG Workshop at the Institute of Mathematics in the University of Granada, Spain
-- Apr 2023: (Upcoming) Seminar talk at the Free University of Bozen-Bolzano, Italy
-- Apr 2023: (Upcoming) Talk at the YoungStatS [webinar](https://youngstats.github.io/post/2023/04/04/recent-advances-in-extreme-value-theory/)
+- May 2023: IMAG Workshop at the Institute of Mathematics in the University of Granada, Spain
+- Apr 2023: Seminar talk at the Free University of Bozen-Bolzano, Italy
+- Apr 2023: Talk at the YoungStatS [webinar](https://youngstats.github.io/post/2023/04/04/recent-advances-in-extreme-value-theory/)
 - Apr 2023: Talk at VALPRED 4 in Aussois, France
 - Mar 2023: Lecture and practicals on "Crossing the bridge from univariate to multivariate extremes", for MSc students part of the [ATHENS network](http://athensnetwork.eu/athens-programme.html) at École des Mines de Paris, France 
 
@@ -51,6 +51,10 @@ Talks
 - Contributed poster, 11th CMStat, Pisa, Italy, Dec 2018
 - Contributed talk, BCUR 2014, Nottingham, United Kingdom, Apr 2014
 
+Supervision
+-------
+- Master thesis of David Gilgen, 2022-2023, MSc Statistis and Data Science
+- Master thesis of Tobias Hugentobler, 2023-2024, MSc Statistis and Data Science
 
 Fun prizes 
 -------

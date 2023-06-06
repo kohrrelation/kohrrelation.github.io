@@ -7,7 +7,7 @@ author_profile: true
 Current projects (submission by summer 2023!)
 ---------------
 
-- **Koh, J.**, Steinfeld, D. (2023+). Predicting the occurrence, intensity and dependence of heat extremes
+- **Koh, J.**, Steinfeld, D., Martius, O. (2023+). Predicting the occurrence, intensity and dependence of heat extremes
 - **Koh, J.**, Opitz, T. (2023+). Modelling the first arrival dates of migratory birds using data fusion and extreme-value theory
 - Gilgen, D., **Koh, J.**, Ziegel, J. (2023+). Gradient boosting with maxima
 

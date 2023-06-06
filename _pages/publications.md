@@ -7,7 +7,7 @@ author_profile: true
 Current projects (submission by summer 2023!)
 ---------------
 
-- **Koh, J.**, Steinfeld, D., Martius, O. (2023+). Predicting the occurrence, intensity and dependence of heat extremes
+- **Koh, J.**, Steinfeld, D., Martius, O. (2023+). Predicting spatial risks of heat extremes using large-scale circulation patterns with machine learning
 
 - **Koh, J.**, Opitz, T. (2023+). Modelling the first arrival dates of migratory birds using data fusion and extreme-value theory
 

@@ -4,7 +4,7 @@ title: "Publications"
 author_profile: true
 ---
 
-Current projects (submission by summer 2023!)
+Current projects (submission by 2023!)
 ---------------
 
 - **Koh, J.**, Steinfeld, D., Martius, O. (2023+). Predicting spatial risks of heat extremes using large-scale circulation patterns with machine learning

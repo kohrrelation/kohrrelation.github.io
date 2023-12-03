@@ -8,7 +8,8 @@ News
 ------
 
 ### 2023
-- Jun 2023: (Upcoming) Talk at EVA'23 in Milan, Italy
+- Nov 2023: New discussion on "Next-Generation Earth System Models: Towards Reliable Hybrid Models for Weather and Climate Applications" on [ArXiv](https://arxiv.org/abs/2311.13691)
+- Jun 2023: Talk at EVA'23 in Milan, Italy
 - May 2023: IMAG Workshop at the Institute of Mathematics in the University of Granada, Spain
 - Apr 2023: Seminar talk at the Free University of Bozen-Bolzano, Italy
 - Apr 2023: Talk at the YoungStatS [webinar](https://youngstats.github.io/post/2023/04/04/recent-advances-in-extreme-value-theory/)

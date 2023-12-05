@@ -7,7 +7,7 @@ author_profile: true
 
 Articles (in revision)
 ---------------
-- **Koh, J.**, Opitz, T. (2023+). Extreme-value modelling of migratory bird arrival dates: Insights from citizen-science data.
+- **Koh, J.**, Opitz, T. (2023+). Extreme-value modelling of migratory bird arrival dates: Insights from citizen-science data. [ArXiv: 2312.01870](https://arxiv.org/abs/2312.01870).
   
 - Poschlod, B., **Koh, J.** (2023+). Convection-permitting climate models can support observations to generate rainfall return levels.
 

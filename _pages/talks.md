@@ -8,6 +8,7 @@ News
 ------
 
 ### 2023
+- Dec 2023: New paper on "Extreme-value modelling of migratory bird arrival dates: Insights from citizen science data" on [ArXiv}(https://arxiv.org/abs/2312.01870)
 - Nov 2023: New discussion on "Next-Generation Earth System Models: Towards Reliable Hybrid Models for Weather and Climate Applications" on [ArXiv](https://arxiv.org/abs/2311.13691)
 - Jun 2023: Talk at EVA'23 in Milan, Italy
 - May 2023: IMAG Workshop at the Institute of Mathematics in the University of Granada, Spain

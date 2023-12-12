@@ -10,7 +10,9 @@ Articles (in revision)
 - **Koh, J.**, Steinfeld, D., Martius, O. (2023+). Using spatial extreme-value theory with machine learning to model and understand spatially compounding extremes.
   
 - **Koh, J.**, Opitz, T. (2023+). Extreme-value modelling of migratory bird arrival dates: Insights from citizen-science data. [ArXiv: 2312.01870](https://arxiv.org/abs/2312.01870).
-  
+
+- Beucler, T., Koch, E., Kotlarski, S., Leutwyler, D., Michel, A., **Koh, J.** (2023+). Next-Generation Earth System Models: Towards Reliable Hybrid Models for Weather and Climate Applications. [ArXiv: 2311.13691](https://arxiv.org/abs/2311.13691)
+
 - Poschlod, B., **Koh, J.** (2023+). Convection-permitting climate models can support observations to generate rainfall return levels.
 
 - Barton, Y., Aregger, M., **Koh, J.**, Martius, O. (2023+). Serial clustering of convective storms and link to sub-hourly rainfall extremes in Switzerland - a large-scale process perspective. 

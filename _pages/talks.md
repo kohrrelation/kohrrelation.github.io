@@ -6,6 +6,8 @@ author_profile: true
 
 News
 ------
+### 2024
+- Jan 2023: Particpation in the U.S. Government Accountability Office expert meeting on "AI in Natural Hazard Modeling: Severe Storms, Hurricanes, Floods, and Wildfires (GAO-24-106213)". Report publicly available [here](https://www.gao.gov/products/gao-24-106213)
 
 ### 2023
 - Dec 2023: New paper on "Extreme-value modelling of migratory bird arrival dates: Insights from citizen science data" on [ArXiv](https://arxiv.org/abs/2312.01870)

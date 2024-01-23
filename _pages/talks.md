@@ -7,6 +7,7 @@ author_profile: true
 News
 ------
 ### 2024
+- Jan 2023: New paper on "Using spatial extreme-value theory with machine learning to model and understand spatially compounding extremes" on [ArXiv](https://arxiv.org/abs/2401.12195)
 - Jan 2023: Particpation in the U.S. Government Accountability Office expert meeting on "AI in Natural Hazard Modeling: Severe Storms, Hurricanes, Floods, and Wildfires (GAO-24-106213)". Report publicly available [here](https://www.gao.gov/products/gao-24-106213)
 
 ### 2023
@@ -21,7 +22,7 @@ News
 
 ### 2022
 - Oct 2022: My paper on "Gradient boosting with extreme-value theory for wildfire prediction" has been accepted in [Extremes](https://www.springer.com/journal/10687)
-- Oct 2022: Our paper on "On the temporal clustering of European extreme precipitation events and its relationship to persistent and transient large-scale atmospheric drivers" (with Y. Barton, P. Rivoire, M. S. Ali, J. Kopp and O. Martius) has been accepted in [Weather and Climate Extremes](https://www.sciencedirect.com/journal/weather-and-climate-extremes)
+- Oct 2022: Our paper on "On the temporal clustering of European extreme precipitation events and its relationship to persistent and transient large-scale atmospheric drivers" has been accepted in [Weather and Climate Extremes](https://www.sciencedirect.com/journal/weather-and-climate-extremes)
 - Oct 2022: Seminar talk at [INRAe](https://biosp.mathnum.inrae.fr/cafe-sciences), Avignon, France
 - Sep 2022: I will lecture a new course [477874-HS2022-0: Statistical modelling of extremes](https://ilias.unibe.ch/goto_ilias3_unibe_crs_2404790.html) at the University of Bern in Fall 2022 
 - Sep 2022: Talk at the DAMOCLES Compound Events Final Conference in Lisbon, Portugal
@@ -31,7 +32,7 @@ News
 - May 2022: Our paper on "Spatiotemporal wildfire modeling through point processes with moderate and extreme marks" (with F. Pimont, J.-L. Dupuy and T. Opitz) has been accepted in the [Annals of Applied Statistics](https://imstat.org/journals-and-publications/annals-of-applied-statistics/)
 - Feb 2022: Seminar talk at the [RCS Seminar](https://www.unige.ch/gsem/en/research/seminars/rcs/), University of Geneva, Switzerland 
 - Feb 2022: I have started a post-doctoral researcher position at the Oeschger Centre for Climate Change Research, University of Bern, working in the Institute of Mathematical Statistics and Actuarial Science ([IMSV](https://www.imsv.unibe.ch/about_us/staff/dr_koh_jonathan_boon_han/index_eng.html)), working with [Prof. Johanna Ziegel](https://www.imsv.unibe.ch/ueber_uns/personen/prof_dr_ziegel_johanna/index_ger.html) and [Prof. Olivia Martius](https://www.geography.unibe.ch/about_us/personen/prof_dr_romppainen_martius_olivia/index_eng.html)
-- Jan 2022: New paper on "Space-time extremes of severe US thunderstorm environments" (with E. Koch and A. C. Davison) on [ArXiv](https://arxiv.org/abs/2201.05102) 
+- Jan 2022: New paper on "Space-time extremes of severe US thunderstorm environments" on [ArXiv](https://arxiv.org/abs/2201.05102) 
 
 
 Talks

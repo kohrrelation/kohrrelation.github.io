@@ -7,7 +7,7 @@ author_profile: true
 
 Articles (in revision)
 ---------------
-- **Koh, J.**, Steinfeld, D., Martius, O. (2023+). Using spatial extreme-value theory with machine learning to model and understand spatially compounding extremes.
+- **Koh, J.**, Steinfeld, D., Martius, O. (2023+). Using spatial extreme-value theory with machine learning to model and understand spatially compounding extremes. [ArXiv: 2401.12195](https://arxiv.org/abs/2401.12195).
   
 - **Koh, J.**, Opitz, T. (2023+). Extreme-value modelling of migratory bird arrival dates: Insights from citizen-science data. [ArXiv: 2312.01870](https://arxiv.org/abs/2312.01870).
 

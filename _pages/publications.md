@@ -7,17 +7,17 @@ author_profile: true
 
 Articles (in revision)
 ---------------
-- **Koh, J.**, Steinfeld, D., Martius, O. (2023+). Using spatial extreme-value theory with machine learning to model and understand spatially compounding extremes. [ArXiv: 2401.12195](https://arxiv.org/abs/2401.12195).
+- **Koh, J.**, Steinfeld, D., Martius, O. (2023+). Using spatial extreme-value theory with machine learning to model and understand spatially compounding extremes. [ArXiv: 2401.12195](https://arxiv.org/abs/2401.12195). Revision in PNAS.
   
-- **Koh, J.**, Opitz, T. (2023+). Extreme-value modelling of migratory bird arrival dates: Insights from citizen-science data. [ArXiv: 2312.01870](https://arxiv.org/abs/2312.01870).
+- **Koh, J.**, Opitz, T. (2023+). Extreme-value modelling of migratory bird arrival dates: Insights from citizen-science data. [ArXiv: 2312.01870](https://arxiv.org/abs/2312.01870). Revision in JRSS(a).
 
 - Beucler, T., Koch, E., Kotlarski, S., Leutwyler, D., Michel, A., **Koh, J.** (2023+). Next-Generation Earth System Models: Towards Reliable Hybrid Models for Weather and Climate Applications. [ArXiv: 2311.13691](https://arxiv.org/abs/2311.13691)
 
-- Poschlod, B., **Koh, J.** (2023+). Convection-permitting climate models can support observations to generate rainfall return levels.
+- Poschlod, B., **Koh, J.** (2023+). Convection-permitting climate models can support observations to generate rainfall return levels. Revision in WRR.
 
 - Barton, Y., Aregger, M., **Koh, J.**, Martius, O. (2023+). Serial clustering of convective storms and link to sub-hourly rainfall extremes in Switzerland - a large-scale process perspective. 
 
-- **Koh, J.**, Koch, E., Davison, A. C. (2022+). Space-time extremes of severe US thunderstorm environments. [ArXiv: 2201.05102](https://arxiv.org/abs/2201.05102). 
+- **Koh, J.**, Koch, E., Davison, A. C. (2022+). Space-time extremes of severe US thunderstorm environments. [ArXiv: 2201.05102](https://arxiv.org/abs/2201.05102). Revision in JASA.
 
 Articles (published)
 ---------------

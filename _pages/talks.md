@@ -7,7 +7,7 @@ author_profile: true
 News
 ------
 ### 2024
-- Feb 2024: (Upcoming) talk at [Causality in Extremes](https://sites.google.com/view/causality-extremes/main) in Geneva
+- Feb 2024: Invited talk at Causality in Extremes in Geneva, Switzerland
 - Jan 2024: New paper submitted in Dec'2023 on "Using spatial extreme-value theory with machine learning to model and understand spatially compounding extremes", now on [ArXiv](https://arxiv.org/abs/2401.12195)
 - Jan 2024: Particpation in the U.S. Government Accountability Office expert meeting on "AI in Natural Hazard Modeling: Severe Storms, Hurricanes, Floods, and Wildfires (GAO-24-106213)". Report publicly available [here](https://www.gao.gov/products/gao-24-106213)
 

@@ -15,14 +15,14 @@ Articles (in revision)
 
 - Beucler, T., Koch, E., Kotlarski, S., Leutwyler, D., Michel, A., **Koh, J.** (2023+). Next-Generation Earth System Models: Towards Reliable Hybrid Models for Weather and Climate Applications. [ArXiv: 2311.13691](https://arxiv.org/abs/2311.13691)
 
-- Poschlod, B., **Koh, J.** (2023+). Convection-permitting climate models can support observations to generate rainfall return levels. Revision in WRR.
-
 - Barton, Y., Aregger, M., **Koh, J.**, Martius, O. (2023+). Serial clustering of convective storms and link to sub-hourly rainfall extremes in Switzerland - a large-scale process perspective. 
 
 - **Koh, J.**, Koch, E., Davison, A. C. (2022+). Space-time extremes of severe US thunderstorm environments. [ArXiv: 2201.05102](https://arxiv.org/abs/2201.05102). Revision in JASA.
 
 Articles (published)
 ---------------
+
+- Poschlod, B., **Koh, J.** (2023+). Convection-permitting climate models can support observations to generate rainfall return levels. Accepted in WRR.
 
 - **Koh, J.** (2023). Gradient boosting with extreme-value theory for wildfire prediction. [Extremes, 26(2):273–299](https://link.springer.com/article/10.1007/s10687-022-00454-6). 
 

@@ -22,7 +22,7 @@ Articles (in revision)
 Articles (published)
 ---------------
 
-- Poschlod, B., **Koh, J.** (2024+). Convection-permitting climate models can support observations to generate rainfall return levels. Accepted in Water Resources Research.
+- Poschlod, B., **Koh, J.** (2024+). Convection-permitting climate models can support observations to generate rainfall return levels. [Water Resources Research, 60(4):e2023WR035159](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2023WR035159)
 
 - **Koh, J.** (2023). Gradient boosting with extreme-value theory for wildfire prediction. [Extremes, 26(2):273–299](https://link.springer.com/article/10.1007/s10687-022-00454-6). 
 

@@ -7,7 +7,7 @@ author_profile: true
 News
 ------
 ### 2024
-- Apr 2024: My collaborators Benjamin Poschlod, Sam Allen and Carmen Steinmann will be speaking at [EGU](https://www.egu24.eu)! 
+- Apr 2024: My collaborators Benjamin Poschlod, Sam Allen and Carmen Steinmann will be presenting at [EGU](https://www.egu24.eu)! 
 - Apr 2024: Research visit at the Institute of Statistical Mathematics [ISM, Tokyo](https://www.ism.ac.jp)
 - Mar 2024: Our paper on "Convection-permitting climate models can support observations to generate rainfall return levels" has been accepted in [Water Resources Research](https://agupubs.onlinelibrary.wiley.com/journal/19447973)
 - Feb 2024: Invited talk at Causality in Extremes in Geneva, Switzerland

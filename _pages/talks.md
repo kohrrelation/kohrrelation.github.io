@@ -7,6 +7,7 @@ author_profile: true
 News
 ------
 ### 2024
+- Apr 2024: My collaborators Benjamin Poschlod, Sam Allen and Carmen Steinmann will be speaking at [EGU](https://www.egu24.eu)! 
 - Apr 2024: Research visit at the Institute of Statistical Mathematics [ISM, Tokyo](https://www.ism.ac.jp)
 - Mar 2024: Our paper on "Convection-permitting climate models can support observations to generate rainfall return levels" has been accepted in [Water Resources Research](https://agupubs.onlinelibrary.wiley.com/journal/19447973)
 - Feb 2024: Invited talk at Causality in Extremes in Geneva, Switzerland
@@ -36,28 +37,6 @@ News
 - Feb 2022: Seminar talk at the [RCS Seminar](https://www.unige.ch/gsem/en/research/seminars/rcs/), University of Geneva, Switzerland 
 - Feb 2022: I have started a post-doctoral researcher position at the Oeschger Centre for Climate Change Research, University of Bern, working in the Institute of Mathematical Statistics and Actuarial Science ([IMSV](https://www.imsv.unibe.ch/about_us/staff/dr_koh_jonathan_boon_han/index_eng.html)), working with [Prof. Johanna Ziegel](https://www.imsv.unibe.ch/ueber_uns/personen/prof_dr_ziegel_johanna/index_ger.html) and [Prof. Olivia Martius](https://www.geography.unibe.ch/about_us/personen/prof_dr_romppainen_martius_olivia/index_eng.html)
 - Jan 2022: New paper on "Space-time extremes of severe US thunderstorm environments" on [ArXiv](https://arxiv.org/abs/2201.05102) 
-
-
-Talks
-------
-- Invited seminar, INRAe, Avignon, France, Oct 2022
-- Contributed talk, DAMOCLES Compound Events Final Conference, Lisbon, Portugal, Sep 2022
-- Invited talk, Joint Statistical Meeting, Washington D.C., United States, Aug 2022
-- Invited seminar, RCS Seminar, Geneva, Switzerland, Feb 2022
-- Invited talk, 14th CMStat (virtual), Dec 2021
-- Invited talk, German Statistical Week 2021 (virtual), Sep 2021
-- Invited talk, 12th Extreme Value Analysis (virtual), Jul 2021
-- Contributed talk, 12th Extreme Value Analysis (virtual), Jun 2021
-- Contributed talk, 13th Workshop on Spatial Statistics and Image Analysis (virtual), May 2021
-- Invited talk, 13th CMStat (virtual), Dec 2020
-- Invited seminar, IMSV Institute Seminar Bern (virtual), Dec 2020
-- Invited talk, 12th CMStat, London, United Kingdom, Dec 2019
-- Contributed talk (ASA funded), 62nd ISI World Statistics Congress, Kuala Lumpur, Malaysia, Aug 2019
-- Invited talk, 11th Extreme Value Analysis, Zagreb, Croatia, Jul 2019
-- Contributed talk, 14th IMSC, Toulouse, France, Jun 2019
-- Contributed poster, Climate Extremes 2019, Riederalp, Switzerland, Mar 2019
-- Contributed poster, 11th CMStat, Pisa, Italy, Dec 2018
-- Contributed talk, BCUR 2014, Nottingham, United Kingdom, Apr 2014
 
 Supervision
 -------

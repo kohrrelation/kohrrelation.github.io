@@ -7,6 +7,9 @@ author_profile: true
 News
 ------
 ### 2024
+- Jul 2024: New paper on "Tail calibration of probabilistic forecasts" on [ArXiv](https://arxiv.org/abs/2407.03167) 
+- Jun 2024: Plenary talk at IMSC'15 in Toulouse, France. Thanks for the invite! 
+- Jun 2024: Our whitepaper "How to use the power of AI to reduce the impact of climate change on Switzerland" is now available [online](https://www.satw.ch/en/publications/how-to-use-the-power-of-ai-to-reduce-the-impact-of-climate-change-on-switzerland)
 - Apr 2024: My collaborators Benjamin Poschlod, Sam Allen and Carmen Steinmann will be presenting at [EGU](https://www.egu24.eu)! 
 - Apr 2024: Research visit at the Institute of Statistical Mathematics [ISM, Tokyo](https://www.ism.ac.jp)
 - Mar 2024: Our paper on "Convection-permitting climate models can support observations to generate rainfall return levels" has been accepted in [Water Resources Research](https://agupubs.onlinelibrary.wiley.com/journal/19447973)
@@ -38,47 +41,7 @@ News
 - Feb 2022: I have started a post-doctoral researcher position at the Oeschger Centre for Climate Change Research, University of Bern, working in the Institute of Mathematical Statistics and Actuarial Science ([IMSV](https://www.imsv.unibe.ch/about_us/staff/dr_koh_jonathan_boon_han/index_eng.html)), working with [Prof. Johanna Ziegel](https://www.imsv.unibe.ch/ueber_uns/personen/prof_dr_ziegel_johanna/index_ger.html) and [Prof. Olivia Martius](https://www.geography.unibe.ch/about_us/personen/prof_dr_romppainen_martius_olivia/index_eng.html)
 - Jan 2022: New paper on "Space-time extremes of severe US thunderstorm environments" on [ArXiv](https://arxiv.org/abs/2201.05102) 
 
-Supervision
--------
-- Master thesis of David Gilgen, 2022-2023, MSc Statistis and Data Science
-- Master thesis of Tobias Hugentobler, 2023-2024, MSc Statistis and Data Science
 
-Fun prizes 
--------
-- Public prize, EPFL MT180 (My Thesis in 180 Seconds) preliminary round, Feb 2022
-
-I've recently started to compete alone at international data challenges, under the alias **kohrrelation**. Let me know if you'd like to collaborate in a team with me! 
-
-- 2nd place, 12th Extreme Value Analysis Data Challenge, Jul 2021
-- 1st place, 8th Europe Congress of Mathematics Data Challenge, Jun 2021
-
-
-Teaching activities
--------
-
-### Lectures
-- "Statistical modelling of extremes" (MSc) at the University of Bern: 21 hours lectures in Fall 2022 
-- "Crossing the bridge from univariate to multivariate extremes" (MSc) at École des Mines de Paris: 3.5 hours lecture and 8 hours practicals in March 2023
-
-### Teaching assistantships
-
-#### University of Bern
-- Statistical forecast verification (MSc); Fall 2022
-
-#### EPFL 
-- Wildfire Modelling: four MSc/BSc semester projects; Spring 2021
-- Statistical Machine Learning: MATH-412 (MSc); Fall 2017, 2018, 2019, 2020
-- Bayesian Computation: MATH-432 (MSc); Spring 2019, 2020
-- Probability and Statistics: MATH-232 (BSc); Spring 2018
-
-Duties included: answering students’ questions in class, planning class sessions, preparing exercises and solution sheets, holding office hours and review sessions, supervising and grading projects, holding substitute lectures, and aiding in the writing and marking of quizzes, midterms and final exams. 
-
-
-Education
--------
-- EPFL, PhD Statistics, 2022
-- ETH Zürich & Universität Zürich, MSc Quantitative Finance (summa cum laude), 2017
-- London School of Economics, BSc Mathematics & Economics (first class honours), 2014
 
 
 

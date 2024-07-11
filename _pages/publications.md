@@ -7,6 +7,8 @@ author_profile: true
 
 Articles (in revision)
 ---------------
+- Allen, S., **Koh, J.**, Segers, J., Ziegel, J. (2024+). Tail calibration of probabilistic forecasts. [ArXiv:2407.03167](https://arxiv.org/abs/2407.03167)
+
 - **Koh, J.** (2024+). Statistics of extremes for natural hazards: wildfires. Book chapter in preparation, for Chapman and Hall/CRC Handbook on Statistics of Extremes. 
 
 - **Koh, J.**, Steinfeld, D., Martius, O. (2023+). Using spatial extreme-value theory with machine learning to model and understand spatially compounding extremes. [ArXiv: 2401.12195](https://arxiv.org/abs/2401.12195).
@@ -21,6 +23,7 @@ Articles (in revision)
 
 Articles (published)
 ---------------
+- **Koh, J.** (2024). Discussion of "Inference for extreme spatial temperature events in a changing climate with application to Ireland" by Healy, J., Tawn J., Thorne, P. and Parnell, A.". \emph{Accepted in Journal of the Royal Statistical Society: Series C} 
 
 - Poschlod, B., **Koh, J.** (2024). Convection-permitting climate models can support observations to generate rainfall return levels. [Water Resources Research, 60(4):e2023WR035159](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2023WR035159)
 

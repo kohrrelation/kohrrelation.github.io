@@ -7,6 +7,7 @@ author_profile: true
 News
 ------
 ### 2024
+- Aug 2024: Our paper on "Extreme-value modelling of migratory bird arrival dates: Insights from citizen science data" has been accepted in the [JRSSa](https://academic.oup.com/jrsssa?login=false)
 - Jul 2024: New paper on "Tail calibration of probabilistic forecasts" on [ArXiv](https://arxiv.org/abs/2407.03167) 
 - Jun 2024: Plenary talk at IMSC'15 in Toulouse, France. Thanks for the invite! 
 - Jun 2024: Our whitepaper "How to use the power of AI to reduce the impact of climate change on Switzerland" is now available [online](https://www.satw.ch/en/publications/how-to-use-the-power-of-ai-to-reduce-the-impact-of-climate-change-on-switzerland)
@@ -36,7 +37,7 @@ News
 - Aug 2022: Talk at the Joint Statistical Meeting in Washington, D.C., United States. Grant amount: CHF1'500
 - Jul 2022: Research visit at the [Department of Statistics, Colorado State University](https://statistics.colostate.edu/)
 - Jul 2022: Research visit [(STSM)](http://damocles.compoundevents.org/stsm.php) at L'unité de Biostatistique et processus SPatiaux [(BioSP)](https://biosp.mathnum.inrae.fr/), INRAe, Avignon, France. Grant amount: €1'575
-- May 2022: Our paper on "Spatiotemporal wildfire modeling through point processes with moderate and extreme marks" (with F. Pimont, J.-L. Dupuy and T. Opitz) has been accepted in the [Annals of Applied Statistics](https://imstat.org/journals-and-publications/annals-of-applied-statistics/)
+- May 2022: Our paper on "Spatiotemporal wildfire modeling through point processes with moderate and extreme marks" has been accepted in the [Annals of Applied Statistics](https://imstat.org/journals-and-publications/annals-of-applied-statistics/)
 - Feb 2022: Seminar talk at the [RCS Seminar](https://www.unige.ch/gsem/en/research/seminars/rcs/), University of Geneva, Switzerland 
 - Feb 2022: I have started a post-doctoral researcher position at the Oeschger Centre for Climate Change Research, University of Bern, working in the Institute of Mathematical Statistics and Actuarial Science ([IMSV](https://www.imsv.unibe.ch/about_us/staff/dr_koh_jonathan_boon_han/index_eng.html)), working with [Prof. Johanna Ziegel](https://www.imsv.unibe.ch/ueber_uns/personen/prof_dr_ziegel_johanna/index_ger.html) and [Prof. Olivia Martius](https://www.geography.unibe.ch/about_us/personen/prof_dr_romppainen_martius_olivia/index_eng.html)
 - Jan 2022: New paper on "Space-time extremes of severe US thunderstorm environments" on [ArXiv](https://arxiv.org/abs/2201.05102) 

@@ -7,7 +7,7 @@ author_profile: true
 News
 ------
 ### 2024
-- Sep 2024: Plenary talk at the Royal Statistical Society (RSS) paper discussion [meeting](https://rss.org.uk/training-events/events/discussion-papers/), at the RSS annual conference in Brighton, UK. Sign up [here!](https://rss.org.uk/training-events/events/events-2024/rss-events/rss-discussion-meeting-(in-person)/#eventoverview). Slides [here](http://kohrrelation.github.io/files/Koh_Opitz_RSS.pdf)
+- Sep 2024: Plenary talk at the Royal Statistical Society (RSS) paper discussion [meeting](https://rss.org.uk/training-events/events/discussion-papers/), at the RSS annual conference in Brighton, UK. Sign up [here!](https://rss.org.uk/training-events/events/events-2024/rss-events/rss-discussion-meeting-(in-person)/#eventoverview) Slides [here](http://kohrrelation.github.io/files/Koh_Opitz_RSS.pdf)
 - Sep 2024: Invited talk at the RSS annual conference in Brighton, UK
 - Aug 2024: Our paper on "Extreme-value modelling of migratory bird arrival dates: Insights from citizen science data" has been accepted in the [JRSSa](https://academic.oup.com/jrsssa?login=false), with discussion
 - Jul 2024: New paper on "Tail calibration of probabilistic forecasts" on [ArXiv](https://arxiv.org/abs/2407.03167) 

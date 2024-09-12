@@ -21,7 +21,7 @@ Articles (in revision)
 
 Articles (published/accepted)
 ---------------
-- **Koh, J.**, Opitz, T. (2024+). Extreme-value modelling of migratory bird arrival dates: Insights from citizen-science data. Journal of the Royal Statistical Society: Series A (with Discussion). Meeting info [here](https://rss.org.uk/training-events/events/discussion-papers/) and preprint [here](https://rss.org.uk/RSS/media/File-library/Events/Discussion%20meetings/Koh_Opitz_RSS_2024-2308.pdf)
+- **Koh, J.**, Opitz, T. (2024+). Extreme-value modelling of migratory bird arrival dates: Insights from citizen-science data. Journal of the Royal Statistical Society: Series A (with Discussion). Meeting info [here](https://rss.org.uk/training-events/events/discussion-papers/) and preprint [here](https://rss.org.uk/RSS/media/File-library/Events/Discussion%20meetings/Koh_Opitz_RSS_2024-2308.pdf). Presentation slides [here](http://kohrrelation.github.io/files/Koh_Opitz_RSS.pdf).
 
 - **Koh, J.** (2024). Jonathan Koh's contribution to the Discussion of "Inference for extreme spatial temperature events in a changing climate with application to Ireland" by Healy, J., Tawn J., Thorne, P. and Parnell, A.". Journal of the Royal Statistical Society: Series C. In press
 

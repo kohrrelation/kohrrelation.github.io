@@ -7,7 +7,8 @@ author_profile: true
 News
 ------
 ### 2024
-- Sep 2024: Plenary talk at the next Royal Statistical Society (RSS) paper discussion [meeting](https://rss.org.uk/training-events/events/discussion-papers/), at the RSS annual conference in Brighton, UK. Sign up [here!](https://rss.org.uk/training-events/events/events-2024/rss-events/rss-discussion-meeting-(in-person)/#eventoverview). Slides [here](http://kohrrelation.github.io/files/Koh_Opitz_RSS.pdf)
+- Sep 2024: Plenary talk at the Royal Statistical Society (RSS) paper discussion [meeting](https://rss.org.uk/training-events/events/discussion-papers/), at the RSS annual conference in Brighton, UK. Sign up [here!](https://rss.org.uk/training-events/events/events-2024/rss-events/rss-discussion-meeting-(in-person)/#eventoverview). Slides [here](http://kohrrelation.github.io/files/Koh_Opitz_RSS.pdf)
+- Sep 2024: Invited talk at the RSS annual conference in Brighton, UK
 - Aug 2024: Our paper on "Extreme-value modelling of migratory bird arrival dates: Insights from citizen science data" has been accepted in the [JRSSa](https://academic.oup.com/jrsssa?login=false), with discussion
 - Jul 2024: New paper on "Tail calibration of probabilistic forecasts" on [ArXiv](https://arxiv.org/abs/2407.03167) 
 - Jun 2024: Plenary talk at IMSC'15 in Toulouse, France. Thanks for the invite! 
@@ -22,11 +23,11 @@ News
 ### 2023
 - Dec 2023: New paper on "Extreme-value modelling of migratory bird arrival dates: Insights from citizen science data" on [ArXiv](https://arxiv.org/abs/2312.01870)
 - Nov 2023: New discussion on "Next-Generation Earth System Models: Towards Reliable Hybrid Models for Weather and Climate Applications" on [ArXiv](https://arxiv.org/abs/2311.13691)
-- Jun 2023: Talk at EVA'23 in Milan, Italy
+- Jun 2023: Invited talk at EVA'23 in Milan, Italy
 - May 2023: IMAG Workshop at the Institute of Mathematics in the University of Granada, Spain
 - Apr 2023: Seminar talk at the Free University of Bozen-Bolzano, Italy
-- Apr 2023: Talk at the YoungStatS [webinar](https://youngstats.github.io/post/2023/04/04/recent-advances-in-extreme-value-theory/)
-- Apr 2023: Talk at VALPRED 4 in Aussois, France
+- Apr 2023: Invited talk at the YoungStatS [webinar](https://youngstats.github.io/post/2023/04/04/recent-advances-in-extreme-value-theory/)
+- Apr 2023: Invited talk at VALPRED 4 in Aussois, France
 - Mar 2023: Lecture and practicals on "Crossing the bridge from univariate to multivariate extremes", for MSc students part of the [ATHENS network](http://athensnetwork.eu/athens-programme.html) at École des Mines de Paris, France 
 
 ### 2022
@@ -34,13 +35,13 @@ News
 - Oct 2022: Our paper on "On the temporal clustering of European extreme precipitation events and its relationship to persistent and transient large-scale atmospheric drivers" has been accepted in [Weather and Climate Extremes](https://www.sciencedirect.com/journal/weather-and-climate-extremes)
 - Oct 2022: Seminar talk at [INRAe](https://biosp.mathnum.inrae.fr/cafe-sciences), Avignon, France
 - Sep 2022: I will lecture a new course [477874-HS2022-0: Statistical modelling of extremes](https://ilias.unibe.ch/goto_ilias3_unibe_crs_2404790.html) at the University of Bern in Fall 2022 
-- Sep 2022: Talk at the DAMOCLES Compound Events Final Conference in Lisbon, Portugal
-- Aug 2022: Talk at the Joint Statistical Meeting in Washington, D.C., United States. Grant amount: CHF1'500
+- Sep 2022: Invited talk at the DAMOCLES Compound Events Final Conference in Lisbon, Portugal
+- Aug 2022: Invited talk at the Joint Statistical Meeting in Washington, D.C., United States. Grant amount: CHF1'500
 - Jul 2022: Research visit at the [Department of Statistics, Colorado State University](https://statistics.colostate.edu/)
 - Jul 2022: Research visit [(STSM)](http://damocles.compoundevents.org/stsm.php) at L'unité de Biostatistique et processus SPatiaux [(BioSP)](https://biosp.mathnum.inrae.fr/), INRAe, Avignon, France. Grant amount: €1'575
 - May 2022: Our paper on "Spatiotemporal wildfire modeling through point processes with moderate and extreme marks" has been accepted in the [Annals of Applied Statistics](https://imstat.org/journals-and-publications/annals-of-applied-statistics/)
 - Feb 2022: Seminar talk at the [RCS Seminar](https://www.unige.ch/gsem/en/research/seminars/rcs/), University of Geneva, Switzerland 
-- Feb 2022: I have started a post-doctoral researcher position at the Oeschger Centre for Climate Change Research, University of Bern, working in the Institute of Mathematical Statistics and Actuarial Science ([IMSV](https://www.imsv.unibe.ch/about_us/staff/dr_koh_jonathan_boon_han/index_eng.html)), working with [Prof. Johanna Ziegel](https://www.imsv.unibe.ch/ueber_uns/personen/prof_dr_ziegel_johanna/index_ger.html) and [Prof. Olivia Martius](https://www.geography.unibe.ch/about_us/personen/prof_dr_romppainen_martius_olivia/index_eng.html)
+- Feb 2022: I have started a post-doctoral researcher position at the Oeschger Centre for Climate Change Research, University of Bern, working in the Institute of Mathematical Statistics and Actuarial Science ([IMSV](https://www.imsv.unibe.ch/about_us/staff/dr_koh_jonathan_boon_han/index_eng.html)), working with Prof. Johanna Ziegel and Prof. Olivia Martius
 - Jan 2022: New paper on "Space-time extremes of severe US thunderstorm environments" on [ArXiv](https://arxiv.org/abs/2201.05102) 
 
 

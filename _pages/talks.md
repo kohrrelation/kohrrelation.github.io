@@ -17,7 +17,7 @@ News
 - Apr 2024: Research visit at the Institute of Statistical Mathematics [ISM, Tokyo](https://www.ism.ac.jp)
 - Mar 2024: Our paper "Convection-permitting climate models can support observations to generate rainfall return levels" has been accepted in [Water Resources Research](https://agupubs.onlinelibrary.wiley.com/journal/19447973)
 - Feb 2024: Invited talk at Causality in Extremes in Geneva, Switzerland
-- Jan 2024: New paper "Using spatial extreme-value theory with machine learning to model and understand spatially compounding extremes" on [ArXiv](https://arxiv.org/abs/2401.12195)
+- Jan 2024: New paper "Using spatial extreme-value theory with machine learning to model and understand spatially compounding weather extremes" on [ArXiv](https://arxiv.org/abs/2401.12195)
 - Jan 2024: Particpation in the U.S. Government Accountability Office expert meeting on "AI in Natural Hazard Modeling: Severe Storms, Hurricanes, Floods, and Wildfires (GAO-24-106213)". Report publicly available [here](https://www.gao.gov/products/gao-24-106213)
 
 ### 2023

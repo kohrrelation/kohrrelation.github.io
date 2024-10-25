@@ -7,7 +7,7 @@ author_profile: true
 
 Articles (published)
 ---------------
-- **Koh, J.**, Opitz, T. (2024+). Extreme-value modelling of migratory bird arrival dates: Insights from citizen-science data. Journal of the Royal Statistical Society: Series A (with Discussion). [Info](https://rss.org.uk/training-events/events/discussion-papers/), [preprint](https://rss.org.uk/RSS/media/File-library/Events/Discussion%20meetings/Koh_Opitz_RSS_2024-2308.pdf), and [slides](http://kohrrelation.github.io/files/Koh_Opitz_RSS.pdf).
+- **Koh, J.**, Opitz, T. (2024+). Extreme-value modelling of migratory bird arrival dates: Insights from citizen-science data. [Journal of the Royal Statistical Society: Series A (with Discussion)](https://academic.oup.com/jrsssa/advance-article/doi/10.1093/jrsssa/qnae108/7828840). [Info](https://rss.org.uk/training-events/events/discussion-papers/) and [slides](http://kohrrelation.github.io/files/Koh_Opitz_RSS.pdf).
 
 - **Koh, J.**, Koch, E., Davison, A. C. (2024+). Space-time extremes of severe US thunderstorm environments. Journal of the American Statistical Association. Accepted, [ArXiv: 2201.05102](https://arxiv.org/abs/2201.05102). 
 

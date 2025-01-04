@@ -7,11 +7,11 @@ author_profile: true
 
 Articles (published)
 ---------------
-- **Koh, J.**, Opitz, T. (2024+). Extreme-value modelling of migratory bird arrival dates: Insights from citizen-science data. [Journal of the Royal Statistical Society: Series A (with Discussion)](https://academic.oup.com/jrsssa/advance-article/doi/10.1093/jrsssa/qnae108/7828840). [Info](https://rss.org.uk/training-events/events/discussion-papers/) and [slides](http://kohrrelation.github.io/files/Koh_Opitz_RSS.pdf).
+- **Koh, J.**, Opitz, T. (2024+). Extreme-value modelling of migratory bird arrival dates: Insights from citizen-science data. Journal of the Royal Statistical Society: Series A (with Discussion). [In press](https://academic.oup.com/jrsssa/advance-article/doi/10.1093/jrsssa/qnae108/7828840). [Info](https://rss.org.uk/training-events/events/discussion-papers/) and [slides](http://kohrrelation.github.io/files/Koh_Opitz_RSS.pdf).
 
-- **Koh, J.**, Koch, E., Davison, A. C. (2024+). Space-time extremes of severe US thunderstorm environments. Journal of the American Statistical Association. Accepted, [ArXiv: 2201.05102](https://arxiv.org/abs/2201.05102). 
+- **Koh, J.**, Koch, E., Davison, A. C. (2024+). Space-time extremes of severe US thunderstorm environments. Journal of the American Statistical Association. [In press](https://doi.org/10.1080/01621459.2024.2421582). 
 
-- **Koh, J.** (2024+). Discussion of "Inference for extreme spatial temperature events in a changing climate with application to Ireland". Journal of the Royal Statistical Society: Series C. In press
+- **Koh, J.** (2024+). Discussion of “Inference for extreme spatial temperature events in a changing climate with application to Ireland” by Healy et al. Journal of the Royal Statistical Society: Series C. [In press](https://doi.org/10.1093/jrsssc/qlae089).
 
 - Poschlod, B., **Koh, J.** (2024). Convection-permitting climate models can support observations to generate rainfall return levels. [Water Resources Research, 60(4):e2023WR035159](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2023WR035159)
 

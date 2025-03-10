@@ -6,7 +6,11 @@ author_profile: true
 
 News
 ------
+### 2025
+- Feb 2024: I have started a Senior Scientist position in the Seminar for Statistics at ETH Zurich
+
 ### 2024
+- Dec 2024: My student Carmen Steinmann (co-supervised with David Bresch) has just defended her [PhD](https://www.research-collection.ethz.ch/handle/20.500.11850/725362). Congratulations! 
 - Oct 2024: Accepted paper "Space-time extremes of severe US thunderstorm environments" in [JASA](https://www.tandfonline.com/journals/uasa20/about-this-journal)
 - Sep 2024: Plenary talk at the Royal Statistical Society (RSS) discussion [meeting](https://rss.org.uk/training-events/events/discussion-papers/), at the RSS annual conference in Brighton, UK. Sign up [here!](https://rss.org.uk/training-events/events/events-2024/rss-events/rss-discussion-meeting-(in-person)/#eventoverview) Slides [here](http://kohrrelation.github.io/files/Koh_Opitz_RSS.pdf)
 - Sep 2024: Invited talk at the RSS annual conference in Brighton, UK

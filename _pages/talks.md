@@ -7,11 +7,12 @@ author_profile: true
 News
 ------
 ### 2025
+- Apr: Accepted paper "Tail calibration of probabilistic forecasts" in [JASA](https://www.tandfonline.com/journals/uasa20/about-this-journal).
 - Feb: I have started a Senior Scientist position in the Seminar for Statistics at ETH Zurich. I am teaching [Computational Statistics](https://www.vvz.ethz.ch/Vorlesungsverzeichnis/lerneinheit.view?semkez=2025S&ansicht=LEHRVERANSTALTUNGEN&lerneinheitId=188262&lang=en) in the Spring 2025 semester. 
 
 ### 2024
 - Dec: My student Carmen Steinmann (co-supervised with David Bresch) has just defended her [PhD](https://www.research-collection.ethz.ch/handle/20.500.11850/725362). Congratulations! 
-- Oct: Accepted paper "Space-time extremes of severe US thunderstorm environments" in [JASA](https://www.tandfonline.com/journals/uasa20/about-this-journal)
+- Oct: Accepted paper "Space-time extremes of severe US thunderstorm environments" in [JASA](https://www.tandfonline.com/journals/uasa20/about-this-journal).
 - Sep: Plenary talk at the Royal Statistical Society (RSS) discussion [meeting](https://rss.org.uk/training-events/events/discussion-papers/), at the RSS annual conference in Brighton, UK. Sign up [here!](https://rss.org.uk/training-events/events/events-2024/rss-events/rss-discussion-meeting-(in-person)/#eventoverview) Slides [here](http://kohrrelation.github.io/files/Koh_Opitz_RSS.pdf)
 - Sep: Invited talk at the RSS annual conference in Brighton, UK
 - Aug: Accepted paper "Extreme-value modelling of migratory bird arrival dates: Insights from citizen science data" in [JRSSa](https://academic.oup.com/jrsssa?login=false), with discussion

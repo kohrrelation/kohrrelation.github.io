@@ -7,6 +7,8 @@ author_profile: true
 
 Articles (published)
 ---------------
+- **Koh, J.**, Steinfeld, D., Martius, O. (2025+). Using spatial extreme-value theory with machine learning to model and understand spatially compounding extremes. Proceedings of the Royal Society A. [Preprint](https://arxiv.org/abs/2401.12195).
+
 - Allen, S., **Koh, J.**, Segers, J., Ziegel, J. (2025+). Tail calibration of probabilistic forecasts. Journal of the American Statistical Association. [Preprint](https://arxiv.org/abs/2407.03167).
 
 - **Koh, J.**, Opitz, T. (2024+). Extreme-value modelling of migratory bird arrival dates: Insights from citizen-science data. Journal of the Royal Statistical Society: Series A (with Discussion). [In press](https://academic.oup.com/jrsssa/advance-article/doi/10.1093/jrsssa/qnae108/7828840). [Info](https://rss.org.uk/training-events/events/discussion-papers/) and [slides](http://kohrrelation.github.io/files/Koh_Opitz_RSS.pdf).
@@ -36,8 +38,6 @@ Discussions and whitepapers (published)
 Articles (in revision)
 ---------------
 - **Koh, J.** (2024+). Statistics of extremes for natural hazards: wildfires. Book chapter in preparation, for Chapman and Hall/CRC Handbook on Statistics of Extremes. 
-
-- **Koh, J.**, Steinfeld, D., Martius, O. (2024+). Using spatial extreme-value theory with machine learning to model and understand spatially compounding extremes. [ArXiv: 2401.12195](https://arxiv.org/abs/2401.12195).
   
 - Barton, Y., Aregger, M., **Koh, J.**, Martius, O. (2023+). Serial clustering of convective storms and link to sub-hourly rainfall extremes in Switzerland - a large-scale process perspective. 
 

@@ -11,7 +11,7 @@ Articles (published)
 
 - Allen, S., **Koh, J.**, Segers, J., Ziegel, J. (2025+). Tail calibration of probabilistic forecasts. Journal of the American Statistical Association. [Preprint](https://arxiv.org/abs/2407.03167).
 
-- **Koh, J.**, Opitz, T. (2024+). Extreme-value modelling of migratory bird arrival dates: Insights from citizen-science data. Journal of the Royal Statistical Society: Series A (with Discussion). [In press](https://academic.oup.com/jrsssa/advance-article/doi/10.1093/jrsssa/qnae108/7828840). [Info](https://rss.org.uk/training-events/events/discussion-papers/) and [slides](http://kohrrelation.github.io/files/Koh_Opitz_RSS.pdf).
+- **Koh, J.**, Opitz, T. (2024+). Extreme-value modelling of migratory bird arrival dates: Insights from citizen-science data. Journal of the Royal Statistical Society: Series A (with Discussion). [In press](https://academic.oup.com/jrsssa/advance-article/doi/10.1093/jrsssa/qnae108/7828840). [Info](https://rss.org.uk/training-events/events/discussion-papers/), [slides](http://kohrrelation.github.io/files/Koh_Opitz_RSS.pdf), and our [reply](https://doi.org/10.1093/jrsssa/qnaf058). 
 
 - **Koh, J.**, Koch, E., Davison, A. C. (2024+). Space-time extremes of severe US thunderstorm environments. Journal of the American Statistical Association. [In press](https://doi.org/10.1080/01621459.2024.2421582). 
 
@@ -28,6 +28,8 @@ Articles (published)
 
 Discussions and whitepapers (published)
 ---------------
+- **Koh, J.**, Opitz, T. (2025). Authors’ reply to the Discussion of ‘Extreme-value modelling of migratory bird arrival dates: Insights from citizen-science data’. [In press](https://doi.org/10.1093/jrsssa/qnaf058). 
+
 - **Koh, J.** (2025). Discussion of “Inference for extreme spatial temperature events in a changing climate with application to Ireland” by Healy et al. [Journal of the Royal Statistical Society: Series C (Applied Statistics), 74(2):315--316](https://doi.org/10.1093/jrsssc/qlae089).
 
 - Beucler, T., Koch, E., Kotlarski, S., Leutwyler, D., Michel, A., **Koh, J.** (2024). Next-Generation Earth System Models: Towards Reliable Hybrid Models for Weather and Climate Applications. Chapter of the Swiss Academy of Engineering Sciences [whitepaper](https://www.satw.ch/en/publications/how-to-use-the-power-of-ai-to-reduce-the-impact-of-climate-change-on-switzerland). [ArXiv: 2311.13691](https://arxiv.org/abs/2311.13691)

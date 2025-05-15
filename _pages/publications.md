@@ -32,7 +32,7 @@ Discussions and whitepapers (published)
 
 - **Koh, J.** (2025). Discussion of “Inference for extreme spatial temperature events in a changing climate with application to Ireland” by Healy et al. [Journal of the Royal Statistical Society: Series C (Applied Statistics), 74(2):315--316](https://doi.org/10.1093/jrsssc/qlae089).
 
-- Beucler, T., Koch, E., Kotlarski, S., Leutwyler, D., Michel, A., **Koh, J.** (2024). Next-Generation Earth System Models: Towards Reliable Hybrid Models for Weather and Climate Applications. Chapter of the Swiss Academy of Engineering Sciences [whitepaper](https://www.satw.ch/en/publications/how-to-use-the-power-of-ai-to-reduce-the-impact-of-climate-change-on-switzerland). [ArXiv: 2311.13691](https://arxiv.org/abs/2311.13691)
+- Beucler, T., Koch, E., Kotlarski, S., Leutwyler, D., Michel, A., **Koh, J.** (2024). Next-Generation Earth System Models: Towards Reliable Hybrid Models for Weather and Climate Applications. Chapter of the Swiss Academy of Engineering Sciences [whitepaper](https://www.satw.ch/en/publications/how-to-use-the-power-of-ai-to-reduce-the-impact-of-climate-change-on-switzerland). [Postprint](https://arxiv.org/abs/2311.13691)
 
 - Davison, A. C., Koch, E., **Koh, J.** (2019). Comment: Models are approximations! [Statistical Science, 34(4):584–590](https://projecteuclid.org/journals/statistical-science/volume-34/issue-4/Comment-Models-Are-Approximations/10.1214/19-STS746.short).
 

@@ -7,6 +7,7 @@ author_profile: true
 News
 ------
 ### 2025
+- May: Our reply to our RSS discussion paper is now online and will appear in [JRSSa](https://doi.org/10.1093/jrsssa/qnaf058). Thank you to the Proposer, Seconder and the discussion contributors for discussing our work! 
 - May: Accepted paper "Using spatial extreme-value theory with machine learning to model and understand spatially compounding weather extremes" in [PRSA](https://royalsocietypublishing.org/journal/rspa).
 - Apr: Accepted paper "Tail calibration of probabilistic forecasts" in [JASA](https://www.tandfonline.com/journals/uasa20/about-this-journal).
 - Feb: I have started a Senior Scientist position in the Seminar for Statistics at ETH Zurich. I am teaching [Computational Statistics](https://www.vvz.ethz.ch/Vorlesungsverzeichnis/lerneinheit.view?semkez=2025S&ansicht=LEHRVERANSTALTUNGEN&lerneinheitId=188262&lang=en) in the Spring 2025 semester. 

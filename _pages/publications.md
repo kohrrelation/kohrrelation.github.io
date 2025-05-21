@@ -28,7 +28,7 @@ Articles (published)
 
 Discussions and whitepapers (published)
 ---------------
-- **Koh, J.**, Opitz, T. (2025). Authors’ reply to the Discussion of ‘Extreme-value modelling of migratory bird arrival dates: Insights from citizen-science data’. [In press](https://doi.org/10.1093/jrsssa/qnaf058). 
+- **Koh, J.**, Opitz, T. (2025). Authors’ reply to the Discussion of ‘Extreme-value modelling of migratory bird arrival dates: Insights from citizen-science data’. Journal of the Royal Statistical Society: Series A. [In press](https://doi.org/10.1093/jrsssa/qnaf058). 
 
 - **Koh, J.** (2025). Discussion of “Inference for extreme spatial temperature events in a changing climate with application to Ireland” by Healy et al. [Journal of the Royal Statistical Society: Series C (Applied Statistics), 74(2):315--316](https://doi.org/10.1093/jrsssc/qlae089).
 

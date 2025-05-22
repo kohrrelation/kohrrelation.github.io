@@ -9,7 +9,7 @@ Articles (published)
 ---------------
 - **Koh, J.**, Steinfeld, D., Martius, O. (2025+). Using spatial extreme-value theory with machine learning to model and understand spatially compounding extremes. Proceedings of the Royal Society A. [Preprint](https://arxiv.org/abs/2401.12195).
 
-- Allen, S., **Koh, J.**, Segers, J., Ziegel, J. (2025+). Tail calibration of probabilistic forecasts. Journal of the American Statistical Association. [Preprint](https://arxiv.org/abs/2407.03167).
+- Allen, S., **Koh, J.**, Segers, J., Ziegel, J. (2025+). Tail calibration of probabilistic forecasts. Journal of the American Statistical Association. [In press](https://doi.org/10.1080/01621459.2025.2506194).
 
 - **Koh, J.**, Opitz, T. (2024+). Extreme-value modelling of migratory bird arrival dates: Insights from citizen-science data. Journal of the Royal Statistical Society: Series A (with Discussion). [In press](https://academic.oup.com/jrsssa/advance-article/doi/10.1093/jrsssa/qnae108/7828840). [Info](https://rss.org.uk/training-events/events/discussion-papers/), [slides](http://kohrrelation.github.io/files/Koh_Opitz_RSS.pdf), and our [reply](https://doi.org/10.1093/jrsssa/qnaf058). 
 

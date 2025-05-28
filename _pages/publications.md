@@ -11,7 +11,7 @@ Articles (peer-reviewed)
 
 - Allen, S., **Koh, J.**, Segers, J., Ziegel, J. (2025+). Tail calibration of probabilistic forecasts. Journal of the American Statistical Association. [In press](https://doi.org/10.1080/01621459.2025.2506194).
 
-- **Koh, J.** (2025). Dragons or snakes: The impact of Chinese astrology on marriages and births. [Significance, 22(4):14-18](https://doi.org/10.1093/jrssig/qmaf038)
+- **Koh, J.** (2025). Dragons or snakes: The impact of Chinese astrology on marriages and births. [Significance, 22(4):14-18](https://doi.org/10.1093/jrssig/qmaf038). Author's original version [here](http://kohrrelation.github.io/files/Significance_KOH.pdf).
 
 - **Koh, J.**, Opitz, T. (2024+). Extreme-value modelling of migratory bird arrival dates: Insights from citizen-science data. Journal of the Royal Statistical Society: Series A (with Discussion). [In press](https://academic.oup.com/jrsssa/advance-article/doi/10.1093/jrsssa/qnae108/7828840). [Info](https://rss.org.uk/training-events/events/discussion-papers/), [slides](http://kohrrelation.github.io/files/Koh_Opitz_RSS.pdf), and our [reply](https://doi.org/10.1093/jrsssa/qnaf058). 
 

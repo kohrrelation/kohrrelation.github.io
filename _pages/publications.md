@@ -13,9 +13,9 @@ Articles (peer-reviewed)
 
 - **Koh, J.** (2025). Dragons or snakes: The impact of Chinese astrology on marriages and births. [Significance, 22(4):14-18](https://doi.org/10.1093/jrssig/qmaf038). Author's original version [here](http://kohrrelation.github.io/files/Significance_KOH.pdf).
 
-- **Koh, J.**, Opitz, T. (2024+). Extreme-value modelling of migratory bird arrival dates: Insights from citizen-science data. Journal of the Royal Statistical Society: Series A (with Discussion). [In press](https://academic.oup.com/jrsssa/advance-article/doi/10.1093/jrsssa/qnae108/7828840). [Info](https://rss.org.uk/training-events/events/discussion-papers/), [slides](http://kohrrelation.github.io/files/Koh_Opitz_RSS.pdf), and our [reply](https://doi.org/10.1093/jrsssa/qnaf058). 
+- **Koh, J.**, Opitz, T. (2025). Extreme-value modelling of migratory bird arrival dates: Insights from citizen-science data. Journal of the Royal Statistical Society: Series A (with Discussion). [In press](https://academic.oup.com/jrsssa/advance-article/doi/10.1093/jrsssa/qnae108/7828840). [Info](https://rss.org.uk/training-events/events/discussion-papers/), [slides](http://kohrrelation.github.io/files/Koh_Opitz_RSS.pdf), and our [reply](https://doi.org/10.1093/jrsssa/qnaf058). 
 
-- **Koh, J.**, Koch, E., Davison, A. C. (2024+). Space-time extremes of severe US thunderstorm environments. Journal of the American Statistical Association. [In press](https://doi.org/10.1080/01621459.2024.2421582). 
+- **Koh, J.**, Koch, E., Davison, A. C. (2025). Space-time extremes of severe US thunderstorm environments. Journal of the American Statistical Association. [In press](https://doi.org/10.1080/01621459.2024.2421582). 
 
 - Poschlod, B., **Koh, J.** (2024). Convection-permitting climate models can support observations to generate rainfall return levels. [Water Resources Research, 60(4):e2023WR035159](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2023WR035159)
 
@@ -41,7 +41,7 @@ Discussions and whitepapers (peer-reviewed)
   
 Articles (in revision)
 ---------------
-- **Koh, J.** (2024+). Statistics of extremes for natural hazards: wildfires. Book chapter in preparation, for Chapman and Hall/CRC Handbook on Statistics of Extremes. 
+- **Koh, J.** (2025+). Statistics of extremes for natural hazards: wildfires. Book chapter in preparation, for Chapman and Hall/CRC Handbook on Statistics of Extremes. 
   
 - Barton, Y., Aregger, M., **Koh, J.**, Martius, O. (2023+). Serial clustering of convective storms and link to sub-hourly rainfall extremes in Switzerland - a large-scale process perspective. 
 

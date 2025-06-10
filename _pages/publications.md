@@ -17,7 +17,7 @@ Articles (peer-reviewed)
 
 - **Koh, J.**, Koch, E., Davison, A. C. (2025). Space-time extremes of severe US thunderstorm environments. _Journal of the American Statistical Association_, 120(550), 591–604. [DOI](https://doi.org/10.1080/01621459.2024.2421582). 
 
-- Poschlod, B., **Koh, J.** (2024). Convection-permitting climate models can support observations to generate rainfall return levels. _Water Resources Research_, 60(4):e2023WR035159. [DOI].(https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2023WR035159)
+- Poschlod, B., **Koh, J.** (2024). Convection-permitting climate models can support observations to generate rainfall return levels. _Water Resources Research_, 60(4):e2023WR035159. [DOI](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2023WR035159).
 
 - **Koh, J.** (2023). Gradient boosting with extreme-value theory for wildfire prediction. _Extremes_, 26(2):273–299. [DOI](https://link.springer.com/article/10.1007/s10687-022-00454-6). 
 

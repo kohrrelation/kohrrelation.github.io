@@ -7,6 +7,8 @@ author_profile: true
 News
 ------
 ### 2025
+- July: Invited talk at CASE workshop in Columbia, MO, United States
+- June: Invited talk at EVA'25 in Chapel Hill, NC, United States
 - June: Article "Dragons or snakes: The impact of Chinese astrology on marriages and births" now online in [Significance](https://academic.oup.com/jrssig/article/22/4/14/8151664).
 - May: Our reply to our RSS discussion paper is now online and will appear in [JRSSa](https://doi.org/10.1093/jrsssa/qnaf058). Thank you to the Proposer, Seconder and the discussion contributors for discussing our work! 
 - May: Accepted paper "Using spatial extreme-value theory with machine learning to model and understand spatially compounding weather extremes" in [PRSA](https://royalsocietypublishing.org/journal/rspa).

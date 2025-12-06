@@ -7,13 +7,16 @@ author_profile: true
 News
 ------
 ### 2025
+- Dec: Invited talk at CMStat, London, UK
+- Dec: Seminar talk at University of Bath, UK 
+- Nov: Lecture and practicals (1-day) for MSc students part of the [ATHENS network](http://athensnetwork.eu/athens-programme.html) at École des Mines de Paris, France 
 - Jul: Invited talk at CASE workshop in Columbia, MO, United States
 - Jun: Invited talk at EVA'25 in Chapel Hill, NC, United States
 - Jun: Article "Dragons or snakes: The impact of Chinese astrology on marriages and births" now online in [Significance](https://academic.oup.com/jrssig/article/22/4/14/8151664).
 - May: Our reply to our RSS discussion paper is now online and will appear in [JRSSa](https://doi.org/10.1093/jrsssa/qnaf058). Thank you to the Proposer, Seconder and the discussion contributors for discussing our work! 
 - May: Accepted paper "Using spatial extreme-value theory with machine learning to model and understand spatially compounding weather extremes" in [PRSA](https://royalsocietypublishing.org/journal/rspa).
 - Apr: Accepted paper "Tail calibration of probabilistic forecasts" in [JASA](https://www.tandfonline.com/journals/uasa20/about-this-journal).
-- Feb: I have started a Senior Scientist position in the Seminar for Statistics at ETH Zurich. I am teaching [Computational Statistics](https://www.vvz.ethz.ch/Vorlesungsverzeichnis/lerneinheit.view?semkez=2025S&ansicht=LEHRVERANSTALTUNGEN&lerneinheitId=188262&lang=en) in the Spring 2025 semester. 
+- Feb: I joined the team of Senior Scientists in the Seminar for Statistics at ETH Zurich, as Oberassistent.  
 
 ### 2024
 - Dec: My student Carmen Steinmann (co-supervised with David Bresch) has just defended her [PhD](https://www.research-collection.ethz.ch/handle/20.500.11850/725362). Congratulations! 

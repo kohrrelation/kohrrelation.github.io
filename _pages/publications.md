@@ -7,15 +7,15 @@ author_profile: true
 
 Articles (peer-reviewed)
 ---------------
-- Allen, S., **Koh, J.**, Segers, J., Ziegel, J. (2025+). Tail calibration of probabilistic forecasts. _Journal of the American Statistical Association_. [DOI](https://doi.org/10.1080/01621459.2025.2506194).
+- **Koh, J.** (2026). Statistics of extremes for wildfires. Book chapter for Chapman and Hall/CRC Handbook on Statistics of Extremes (forthcoming). 
 
-- **Koh, J.** (2025+). Statistics of extremes for wildfires. Book chapter for Chapman and Hall/CRC Handbook on Statistics of Extremes (forthcoming). 
+- Allen, S., **Koh, J.**, Segers, J., Ziegel, J. (2025). Tail calibration of probabilistic forecasts. _Journal of the American Statistical Association_, 120(552):2796–2808. [DOI](https://doi.org/10.1080/01621459.2025.2506194). [Video](https://sites.google.com/view/ow-extremes/past).
 
 - **Koh, J.**, Steinfeld, D., Martius, O. (2025). Using spatial extreme-value theory with machine learning to model and understand spatially compounding extremes. _Proceedings of the Royal Society A_, 481:20240763. [DOI](https://doi.org/10.1098/rspa.2024.0763). [Preprint](https://arxiv.org/abs/2401.12195).
 
-- **Koh, J.**, Opitz, T. (2025). Extreme-value modelling of migratory bird arrival dates: Insights from citizen-science data (with discussion). _Journal of the Royal Statistical Society: Series A_, 188(3):674–699.  [DOI](https://academic.oup.com/jrsssa/advance-article/doi/10.1093/jrsssa/qnae108/7828840). [Info](https://rss.org.uk/training-events/events/discussion-papers/), [slides](http://kohrrelation.github.io/files/Koh_Opitz_RSS.pdf), and our [reply](https://doi.org/10.1093/jrsssa/qnaf058). 
+- **Koh, J.**, Opitz, T. (2025). Extreme-value modelling of migratory bird arrival dates: Insights from citizen-science data (with discussion). _Journal of the Royal Statistical Society: Series A_, 188(3):674–699.  [DOI](https://academic.oup.com/jrsssa/advance-article/doi/10.1093/jrsssa/qnae108/7828840). [Info](https://rss.org.uk/training-events/events/discussion-papers/), [slides](http://kohrrelation.github.io/files/Koh_Opitz_RSS.pdf), and our [reply](https://doi.org/10.1093/jrsssa/qnaf058). [Video](https://youtu.be/FTJcH1AhC2w?si=Fs9-eOFazggbyn-9&t=1952)
 
-- **Koh, J.** (2025). Dragons or snakes: The impact of Chinese astrology on marriages and births. _Significance_, 22(4):14–18. [DOI](https://doi.org/10.1093/jrssig/qmaf038). Author's original version [here](http://kohrrelation.github.io/files/Significance_KOH.pdf).
+- **Koh, J.** (2025). Dragons or snakes: The impact of Chinese astrology on marriages and births. _Significance_, 22(4):14–18. [DOI](https://doi.org/10.1093/jrssig/qmaf038). Author's original [version](http://kohrrelation.github.io/files/Significance_KOH.pdf).
 
 - **Koh, J.**, Koch, E., Davison, A. C. (2025). Space-time extremes of severe US thunderstorm environments. _Journal of the American Statistical Association_, 120(550):591–604. [DOI](https://doi.org/10.1080/01621459.2024.2421582). 
 
@@ -23,7 +23,7 @@ Articles (peer-reviewed)
 
 - **Koh, J.** (2023). Gradient boosting with extreme-value theory for wildfire prediction. _Extremes_, 26(2):273–299. [DOI](https://link.springer.com/article/10.1007/s10687-022-00454-6). 
 
-- **Koh, J.**, Pimont, F., Dupuy, J.-L., Opitz, T. (2023). Spatiotemporal wildfire modelling through point processes with moderate and extreme marks. _The Annals of Applied Statistics_, 17(1):560–582. [DOI](https://projecteuclid.org/journals/annals-of-applied-statistics/volume-17/issue-1/Spatiotemporal-wildfire-modeling-through-point-processes-with-moderate-and-extreme/10.1214/22-AOAS1642.full). Correction [here](https://projecteuclid.org/journals/annals-of-applied-statistics/volume-18/issue-1/Correction-to--Spatiotemporal-wildfire-modeling-through-point-processes-with/10.1214/23-AOAS1861.full). Video [here](https://media.ed.ac.uk/media/Climate+ExtremesA+Jonathan+Koh/1_sjq69ibw)
+- **Koh, J.**, Pimont, F., Dupuy, J.-L., Opitz, T. (2023). Spatiotemporal wildfire modelling through point processes with moderate and extreme marks. _The Annals of Applied Statistics_, 17(1):560–582. [DOI](https://projecteuclid.org/journals/annals-of-applied-statistics/volume-17/issue-1/Spatiotemporal-wildfire-modeling-through-point-processes-with-moderate-and-extreme/10.1214/22-AOAS1642.full). [Correction](https://projecteuclid.org/journals/annals-of-applied-statistics/volume-18/issue-1/Correction-to--Spatiotemporal-wildfire-modeling-through-point-processes-with/10.1214/23-AOAS1861.full). [Video](https://media.ed.ac.uk/media/Climate+ExtremesA+Jonathan+Koh/1_sjq69ibw)
 
 - Barton, Y., Rivoire, P., **Koh, J.**, Ali, S. M., Kopp, J., Martius, O. (2022). On the temporal clustering of European extreme precipitation events and its relationship to persistent and transient large-scale atmospheric drivers. _Weather and Climate Extremes_, 38:e100518. [DOI](https://www.sciencedirect.com/science/article/pii/S2212094722000974#!).
 

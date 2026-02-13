@@ -15,6 +15,6 @@ Before ETH, I was a post-doctoral researcher at the Oeschger Centre for Climate 
 I develop new statistical tools to model environmental extremes. My broad research focus lies in the intersection of (spatial) extreme-value theory, machine learning, forecast evaluation and environmental statistics. 
 
 <p align="center">
-<img src="http://kohrrelation.github.io/images/Nasi_lemak.jpeg" width="400">
+<img src="http://kohrrelation.github.io/images/Nasi_lemak.jpeg" width="800">
 </p>
 

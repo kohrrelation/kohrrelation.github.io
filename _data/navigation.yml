@@ -9,5 +9,5 @@ main:
  # - title: "Blog posts"
 #    url: /year-archive/
 
-  - title: "Outside academia"
-    url: /outside/
+ # - title: "Outside academia"
+  #  url: /outside/

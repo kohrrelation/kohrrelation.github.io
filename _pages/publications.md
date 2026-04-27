@@ -7,7 +7,9 @@ author_profile: true
 
 Articles (peer-reviewed)
 ---------------
-- **Koh, J.** (2026). Statistics of extremes for wildfires. Book chapter for Chapman and Hall/CRC Handbook on Statistics of Extremes (forthcoming). 
+- **Koh, J.** (2026). Statistics of extremes for wildfires. Book chapter in _Chapman and Hall/CRC Handbook on Statistics of Extremes_ (forthcoming).
+
+- Steinmann, C. B., **Koh, J.**, Scholten, R. C., Bresch, D. N., Hantson, S. (2026). A survival guide for assessing global fire risks to natural and human systems. _International Journal of Disaster Risk Reduction_, 140:106140. [DOI](https://doi.org/10.1016/j.ijdrr.2026.106140).
 
 - Allen, S., **Koh, J.**, Segers, J., Ziegel, J. (2025). Tail calibration of probabilistic forecasts. _Journal of the American Statistical Association_, 120(552):2796–2808. [DOI](https://doi.org/10.1080/01621459.2025.2506194). [Video](https://sites.google.com/view/ow-extremes/past).
 
@@ -43,9 +45,6 @@ Discussions and whitepapers (peer-reviewed)
   
 Articles (in revision)
 ---------------
-
-
-- Steinmann, C. B., **Koh, J.**, Scholten, R. B., Bresch, N. B., Hantson, S. (2026). A survival guide for assessing global fire risks to natural and human systems. 
 
 - Barton, Y., Aregger, M., **Koh, J.**, Martius, O. (2023+). Serial clustering of convective storms and link to sub-hourly rainfall extremes in Switzerland - a large-scale process perspective. 
 
